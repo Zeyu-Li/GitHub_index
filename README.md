@@ -5,6 +5,7 @@
 
 ### University
 
+* [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
@@ -46,6 +47,7 @@
 
 #### Automation Scripts
 
+* [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
 
@@ -96,6 +98,7 @@
 * [high_school_exercise_assignments](https://github.com/Zeyu-Li/high_school_exercise_assignments) - a collection of high school assignments in computer science 30
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
+* [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
@@ -112,7 +115,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - A website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 32; 29:3 => public:private
+Count: 33; public:private => 30:3
 
 ## About
 
