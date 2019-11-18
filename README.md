@@ -75,6 +75,7 @@
 
 ### Private
 
+* [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - a Google Sheets API script using python to clone from template and change dates in certain cell (there is a public version of this repo)
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - Started looking into flask but switched to Django
@@ -92,6 +93,7 @@
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - Started looking into flask but switched to Django
+* [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
