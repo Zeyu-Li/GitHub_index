@@ -47,6 +47,7 @@
 
 #### Automation Scripts
 
+* [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
@@ -117,9 +118,10 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - A website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 33; public:private => 30:3
+Count: 34; public:private => 31:3
 
 ## About
 
 This is a index to all my Github repos. It acts as a quicklink to all my projects as well as a description to each repo
+
 *Note, there may be multiple copies of repos because it belongs to multiple sections
