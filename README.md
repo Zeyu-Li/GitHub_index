@@ -42,6 +42,7 @@
 
 ### Other
 
+* [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
 
@@ -54,6 +55,8 @@
 
 #### Tests
 
+* [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
+* [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes (above))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 
 ## Repo by Category (i.e. private, origin)
@@ -64,9 +67,12 @@
 * [cpp_gui_template](https://github.com/Zeyu-Li/cpp_gui_template) - A C++ GUI boilerplate using wxWidgets
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - A website boilerplate
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
+* [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - A TypeScript boilerplate
+* [go_template](https://github.com/Zeyu-Li/go_template) - A go boilerplate
 
 ### Templates
 
+* [template](https://github.com/Zeyu-Li/template) - A standard template wil README and a license
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - A template for a visual studio project
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 
@@ -96,6 +102,8 @@
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - Started looking into flask but switched to Django
 * [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
+* [go_template](https://github.com/Zeyu-Li/go_template) - A go boilerplate
+* [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
@@ -104,6 +112,7 @@
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
+* [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
@@ -111,7 +120,9 @@
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - Helped some high school friends with a static website that keeps score in a robotics tournament
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
+* [template](https://github.com/Zeyu-Li/template) - A standard template wil README and a license
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
+* [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - A TypeScript boilerplate
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - a collection (that remains empty for now) of code done at UAPSPC (Problem Solving and Programming Club)
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - A template for a visual studio project
@@ -119,7 +130,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - A website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 35; public:private => 32:3
+Count: 41; public:private => 38:3
 
 ## About
 
