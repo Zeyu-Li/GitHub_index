@@ -55,6 +55,7 @@
 
 #### Tests
 
+* [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes (above))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
@@ -82,6 +83,8 @@
 
 ### Private
 
+* [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
+* [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - a Google Sheets API script using python to clone from template and change dates in certain cell (there is a public version of this repo)
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
@@ -92,6 +95,7 @@
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
+* [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
 * [cpp_boilerplate](https://github.com/Zeyu-Li/cpp_boilerplate) - A C++ boilerplate
 * [cpp_gui_template](https://github.com/Zeyu-Li/cpp_gui_template) - A C++ GUI boilerplate using wxWidgets
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
@@ -121,6 +125,7 @@
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [template](https://github.com/Zeyu-Li/template) - A standard template wil README and a license
+* [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 * [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - A TypeScript boilerplate
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - a collection (that remains empty for now) of code done at UAPSPC (Problem Solving and Programming Club)
@@ -130,7 +135,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - A website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 41; public:private => 38:3
+Count: 43; public:private => 39:4
 
 ## About
 
