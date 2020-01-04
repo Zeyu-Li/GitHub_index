@@ -33,6 +33,8 @@
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (C#) (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
+* [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
+
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 
 ### Notes (Latex)
@@ -106,6 +108,7 @@
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
+* [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
 * [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [go_template](https://github.com/Zeyu-Li/go_template) - a Go boilerplate
