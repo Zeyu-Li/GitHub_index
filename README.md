@@ -34,8 +34,8 @@
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
-
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
+* [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 
 ### Notes (Latex)
 
@@ -54,6 +54,7 @@
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
+* [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 
 #### Tests
 
@@ -71,7 +72,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - a python boilerplate
 * [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - a TypeScript boilerplate
-* [go_template](https://github.com/Zeyu-Li/go_template) - a Go boilerplate
+* [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
 
 ### Templates
 
@@ -87,12 +88,11 @@
 ### Private
 
 * [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
-* [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
+* [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - a Google Sheets API script using python to clone from template and change dates in certain cell (there is a public version of this repo)
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
-* [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
 
 ## All
 
@@ -107,14 +107,16 @@
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
+* [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
-* [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
-* [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
-* [go_template](https://github.com/Zeyu-Li/go_template) - a Go boilerplate
+* [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
+* [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
+* [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
+* [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
 * [high_school_exercise_assignments](https://github.com/Zeyu-Li/high_school_exercise_assignments) - a collection of high school assignments in computer science 30
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
@@ -123,6 +125,7 @@
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
+* [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
@@ -141,7 +144,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 44; public:private => 40:4
+Count: 47; public:private => 42:5
 
 ## About
 
