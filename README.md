@@ -7,6 +7,7 @@
 
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
+* [CS_175](https://github.com/Zeyu-Li/CS_175) - a collection of assignments in CMPUT 175 @ U of A
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 * [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
@@ -37,6 +38,18 @@
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 
+### Python
+
+- [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
+
+- [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
+- [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
+- [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
+
+- [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
+- [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
+- [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
+
 ### Notes (Latex)
 
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
@@ -45,8 +58,8 @@
 ### Other
 
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
-* [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
-* [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
+* [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork
+* [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
 
 #### Automation Scripts
 
@@ -92,6 +105,7 @@
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - a Google Sheets API script using python to clone from template and change dates in certain cell (there is a public version of this repo)
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
+* [CS_175](https://github.com/Zeyu-Li/CS_175) - a collection of assignments in CMPUT 175 @ U of A
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 
 ## All
@@ -104,12 +118,14 @@
 * [cpp_gui_template](https://github.com/Zeyu-Li/cpp_gui_template) - a C++ GUI boilerplate using wxWidgets
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
+* [CS_175](https://github.com/Zeyu-Li/CS_175) - a collection of assignments in CMPUT 175 @ U of A
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
+* [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
 * [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
@@ -127,6 +143,7 @@
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
+* [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
@@ -144,7 +161,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 47; public:private => 42:5
+Count: 50; public:private => 44:6
 
 ## About
 
