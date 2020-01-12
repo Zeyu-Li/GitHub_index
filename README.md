@@ -54,6 +54,7 @@
 
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
+* [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 
 ### Other
 
@@ -151,6 +152,7 @@
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
+* [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 * [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - a TypeScript boilerplate
@@ -161,7 +163,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 50; public:private => 44:6
+Count: 51; public:private => 45:6
 
 ## About
 
