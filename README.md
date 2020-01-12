@@ -58,7 +58,7 @@
 ### Other
 
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
-* [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork
+* [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
 
 #### Automation Scripts
