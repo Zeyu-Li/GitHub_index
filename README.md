@@ -118,8 +118,8 @@
 ## All
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
-
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
+
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
