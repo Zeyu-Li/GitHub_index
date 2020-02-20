@@ -59,6 +59,7 @@
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
+* [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that suppliments Unity Documentation, along with some tips and tricks
 
 ### Other
 
@@ -66,6 +67,7 @@
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
+* [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 
 #### Automation Scripts
 
@@ -104,6 +106,7 @@
 ### Collaborated/ Forked
 
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
+* [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 
 ### Private
 
@@ -119,7 +122,6 @@
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
-
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
@@ -161,6 +163,7 @@
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - Helped some high school friends with a static website that keeps score in a robotics tournament
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
+* [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
@@ -169,6 +172,7 @@
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - a collection (that remains empty for now) of code done at UAPSPC (Problem Solving and Programming Club)
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [Unity-Template-2D-2019_3](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3) - A Unity Template for 2D games
+* [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that suppliments Unity Documentation, along with some tips and tricks
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
