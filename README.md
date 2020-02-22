@@ -38,18 +38,17 @@
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
 * [Unity-Template-2D-2019_3](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3) - A Unity Template for 2D games
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
-* [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
+* [cpp_fractions_lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - a Fractions library in C++
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 
 ### Python
 
 - [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
-
 - [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 - [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 - [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
-
+- [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
 - [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
 - [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
 - [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
@@ -65,7 +64,7 @@
 
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
-* [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
+* [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 
@@ -126,6 +125,7 @@
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
 * [cpp_boilerplate](https://github.com/Zeyu-Li/cpp_boilerplate) - a C++ boilerplate
+* [cpp_fractions_lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - a Fractions library in C++
 * [cpp_gui_template](https://github.com/Zeyu-Li/cpp_gui_template) - a C++ GUI boilerplate using wxWidgets
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
@@ -135,7 +135,6 @@
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
-* [fractions_cal](https://github.com/Zeyu-Li/fractions_cal) - a fractions calculator in C++
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
@@ -156,7 +155,8 @@
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - A python boilerplate
-* [quick_algorithm](https://github.com/Zeyu-Li/quick_algorithm) - a collections of algorithms and/or formula
+* [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
+* [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
