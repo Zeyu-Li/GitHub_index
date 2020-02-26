@@ -41,6 +41,7 @@
 * [cpp_fractions_lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - a Fractions library in C++
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
+* [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 
 ### Python
 
@@ -98,6 +99,7 @@
 
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
+* [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
 * [README_template](https://github.com/Zeyu-Li/README_template) - a template for README.md files
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
@@ -120,6 +122,7 @@
 ## All
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
+* [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
@@ -179,7 +182,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 59; public:private => 53:6
+Count: 60; public:private => 54:6
 
 ## About
 
