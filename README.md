@@ -30,6 +30,7 @@
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
+* [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
 
 ### C-styled
 
@@ -167,6 +168,7 @@
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
+* [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
@@ -182,7 +184,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 60; public:private => 54:6
+Count: 61; public:private => 55:6
 
 ## About
 
