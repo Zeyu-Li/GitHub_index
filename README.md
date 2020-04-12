@@ -24,13 +24,14 @@
 
 ### Web
 
-* [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
+* [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
+* [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a django based ecommerce app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 
 ### C-styled
 
@@ -46,6 +47,7 @@
 
 ### Python
 
+- [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 - [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 - [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 - [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
@@ -54,6 +56,8 @@
 - [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
 - [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
 - [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
+- [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a django based ecommerce app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
+- [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 
 ### Notes (Latex)
 
@@ -69,6 +73,8 @@
 * [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
+* [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
+* [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 
 #### Automation Scripts
 
@@ -78,6 +84,7 @@
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
+* [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 
 #### Tests
 
@@ -110,6 +117,7 @@
 
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
+* [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 
 ### Private
 
@@ -137,13 +145,15 @@
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
 * [CS_175](https://github.com/Zeyu-Li/CS_175) - a collection of assignments in CMPUT 175 @ U of A
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
-* [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
+* [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
+* [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
+* [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
 * [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
@@ -155,6 +165,7 @@
 * [high_school_exercise_assignments](https://github.com/Zeyu-Li/high_school_exercise_assignments) - a collection of high school assignments in computer science 30
 * [honor_cal_notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
+* [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
@@ -187,7 +198,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 61; public:private => 55:6
+Count: 65; public:private:forked => 56:6:3
 
 ## About
 
