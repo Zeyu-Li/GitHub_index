@@ -25,6 +25,7 @@
 ### Web
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
@@ -39,6 +40,7 @@
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
 * [Unity-Template-2D-2019_3](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3) - A Unity Template for 2D games
+* [Unity-Template-3D-2019_3](https://github.com/Zeyu-Li/Unity-Template-3D-2019_3) - A Unity Template for 3D games
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [cpp_fractions_lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - a Fractions library in C++
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
@@ -50,6 +52,7 @@
 - [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 - [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 - [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
+- [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 - [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 - [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
 - [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
@@ -71,6 +74,7 @@
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
+* [free_blender_models](https://github.com/Zeyu-Li/free_blender_models) - free Blender models
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
@@ -123,7 +127,6 @@
 
 * [cover_letter](https://github.com/Zeyu-Li/cover_letter) - my personal cover letter
 * [grapher](https://github.com/Zeyu-Li/grapher) - a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
-* [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - a Google Sheets API script using python to clone from template and change dates in certain cell (there is a public version of this repo)
 * [CS_174_old](https://github.com/Zeyu-Li/CS_174_old) - some old projects in CS 174 that were not so important
 * [CS_174](https://github.com/Zeyu-Li/CS_174) - a collection of assignments in CMPUT 174 @ U of A
@@ -134,6 +137,7 @@
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
@@ -151,6 +155,7 @@
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
+* [free_blender_models](https://github.com/Zeyu-Li/free_blender_models) - free Blender models
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
 * [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
@@ -191,6 +196,7 @@
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - a collection (that remains empty for now) of code done at UAPSPC (Problem Solving and Programming Club)
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [Unity-Template-2D-2019_3](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3) - A Unity Template for 2D games
+* [Unity-Template-3D-2019_3](https://github.com/Zeyu-Li/Unity-Template-3D-2019_3) - A Unity Template for 3D games
 * [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that suppliments Unity Documentation, along with some tips and tricks
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
@@ -198,7 +204,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 65; public:private:forked => 56:6:3
+Count: 68; public:private:forked => 58:7:3
 
 ## About
 
