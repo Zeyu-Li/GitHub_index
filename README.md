@@ -25,7 +25,7 @@
 ### Web
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
-* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas https://zeyu-li.github.io/chess/index.html
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
@@ -138,7 +138,7 @@
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
-* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas https://zeyu-li.github.io/chess/index.html
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
