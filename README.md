@@ -69,6 +69,8 @@
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 * [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that suppliments Unity Documentation, along with some tips and tricks
+* [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
+* [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 
 ### Other
 
@@ -80,8 +82,10 @@
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
 * [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
+* [Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template. New one here: https://github.com/Zeyu-Li/Unreal-Template
+* [Unreal-Template](https://github.com/Zeyu-Li/Unreal-Template) - An Unreal Engine template. Because of a git rename bug, inherits from https://github.com/Zeyu-Li/Unreal-Template-Old
 
-#### Automation Scripts
+#### **Automation Scripts**
 
 * [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
@@ -91,7 +95,7 @@
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
 * [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 
-#### Tests
+#### **Tests**
 
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
@@ -108,6 +112,7 @@
 * [python_boilerplate](https://github.com/Zeyu-Li/python_boilerplate) - a python boilerplate
 * [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - a TypeScript boilerplate
 * [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
+* [rust-template](https://github.com/Zeyu-Li/rust-template) - some info on rust, functional programming, and a hello world
 
 ### Templates
 
@@ -123,6 +128,7 @@
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
+* [gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates
 
 ### Private
 
@@ -161,6 +167,7 @@
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
 * [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
+* [gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
 * [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
@@ -171,6 +178,7 @@
 * [high_school_exercise_assignments](https://github.com/Zeyu-Li/high_school_exercise_assignments) - a collection of high school assignments in computer science 30
 * [honor_cal_notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
+* [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
@@ -187,6 +195,7 @@
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - Helped some high school friends with a static website that keeps score in a robotics tournament
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
+* [rust-template](https://github.com/Zeyu-Li/rust-template) - some info on rust, functional programming, and a hello world
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
@@ -200,13 +209,16 @@
 * [Unity-Template-2D-2019_3](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3) - A Unity Template for 2D games
 * [Unity-Template-3D-2019_3](https://github.com/Zeyu-Li/Unity-Template-3D-2019_3) - A Unity Template for 3D games
 * [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that suppliments Unity Documentation, along with some tips and tricks
+* [Unreal-Template](https://github.com/Zeyu-Li/Unreal-Template) - An Unreal Engine template. Because of a git rename bug, inherits from https://github.com/Zeyu-Li/Unreal-Template-Old
+* [Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template. New one here: https://github.com/Zeyu-Li/Unreal-Template
+* [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
 * [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 69; public:private:forked => 59:7:3
+Count: 75; public:private:forked => 65:7:4
 
 ## About
 
