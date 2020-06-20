@@ -37,6 +37,7 @@
 ### C-styled
 
 *  [Quarantined_Game_Jam](https://github.com/Zeyu-Li/Quarantined_Game_Jam) - Game Jam during Quarantine; Play now here: https://itch.io/embed-upload/2251772?color=fe5e5e
+*  [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - a singly linked list in c; now in https://github.com/Zeyu-Li/quick_algorithms
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (C#) (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020
@@ -51,6 +52,7 @@
 ### Python
 
 - [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
+- [cipher](https://github.com/Zeyu-Li/cipher) - a cipher based off of the Feistel Cipher
 - [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 - [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 - [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
@@ -65,6 +67,7 @@
 
 ### Notes (Latex)
 
+* [choose_your_own_adventure_react_framework](https://github.com/Zeyu-Li/choose_your_own_adventure_react_framework) - Create a choose your adventure game with this React framework
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
@@ -106,6 +109,7 @@
 
 ### Boilerplates
 
+* [C-template](https://github.com/Zeyu-Li/C-template) - a template for C 
 * [cpp_boilerplate](https://github.com/Zeyu-Li/cpp_boilerplate) - a C++ boilerplate
 * [cpp_gui_template](https://github.com/Zeyu-Li/cpp_gui_template) - a C++ GUI boilerplate using wxWidgets
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
@@ -118,6 +122,7 @@
 
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
+* [react-template](https://github.com/Zeyu-Li/react-template) - a react template
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
 * [README_template](https://github.com/Zeyu-Li/README_template) - a template for README.md files
@@ -144,7 +149,11 @@
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
+* [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - a singly linked list in c; now in https://github.com/Zeyu-Li/quick_algorithms
+* [C-template](https://github.com/Zeyu-Li/C-template) - a template for C 
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas https://zeyu-li.github.io/chess/index.html
+* [choose_your_own_adventure_react_framework](https://github.com/Zeyu-Li/choose_your_own_adventure_react_framework) - Create a choose your adventure game with this React framework
+* [cipher](https://github.com/Zeyu-Li/cipher) - a cipher based off of the Feistel Cipher
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
@@ -190,6 +199,7 @@
 * [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
 *  [Quarantined_Game_Jam](https://github.com/Zeyu-Li/Quarantined_Game_Jam) - Game Jam during Quarantine; Play now here: https://itch.io/embed-upload/2251772?color=fe5e5e
 * [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
+* [react-template](https://github.com/Zeyu-Li/react-template) - a react template
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
@@ -218,7 +228,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 75; public:private:forked => 65:7:4
+Count: 80; public:private:forked => 69:7:4
 
 ## About
 
