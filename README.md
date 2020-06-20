@@ -25,10 +25,10 @@
 ### Web
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
-* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas https://zeyu-li.github.io/chess/index.html
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas live @ https://zeyu-li.github.io/chess/index.html
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
-* [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
+* [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component. Live @ https://zeyu-li.github.io/web-goals/
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
@@ -151,7 +151,7 @@
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 * [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - a singly linked list in c; now in https://github.com/Zeyu-Li/quick_algorithms
 * [C-template](https://github.com/Zeyu-Li/C-template) - a template for C 
-* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas https://zeyu-li.github.io/chess/index.html
+* [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas. Live @ https://zeyu-li.github.io/chess/index.html
 * [choose_your_own_adventure_react_framework](https://github.com/Zeyu-Li/choose_your_own_adventure_react_framework) - Create a choose your adventure game with this React framework
 * [cipher](https://github.com/Zeyu-Li/cipher) - a cipher based off of the Feistel Cipher
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
@@ -223,7 +223,7 @@
 * [Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template. New one here: https://github.com/Zeyu-Li/Unreal-Template
 * [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
-* [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component
+* [web-goals](https://github.com/Zeyu-Li/web-goals) - A local web-based application that updated Markdown and makes goals with a time-based component. Live @ https://zeyu-li.github.io/web-goals/
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
