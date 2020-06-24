@@ -67,7 +67,7 @@
 
 ### Notes (Latex)
 
-* [choose_your_own_adventure_react_framework](https://github.com/Zeyu-Li/choose_your_own_adventure_react_framework) - Create a choose your adventure game with this React framework
+* [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
@@ -122,7 +122,9 @@
 
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
+* [angular-template](https://github.com/Zeyu-Li/angular-template) - a template for Angular
 * [react-template](https://github.com/Zeyu-Li/react-template) - a react template
+* [react-native-template](https://github.com/Zeyu-Li/react-native-template) - A template for React Native
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - a template for IntelliJ IDEA
 * [README_template](https://github.com/Zeyu-Li/README_template) - a template for README.md files
@@ -130,6 +132,7 @@
 
 ### Collaborated/ Forked
 
+* [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music to midi file converter
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
@@ -149,10 +152,11 @@
 
 * [3D_print_doggy_chain_template](https://github.com/Zeyu-Li/3D_print_doggy_chain_template) - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio
+* [angular-template](https://github.com/Zeyu-Li/angular-template) - a template for Angular
 * [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - a singly linked list in c; now in https://github.com/Zeyu-Li/quick_algorithms
 * [C-template](https://github.com/Zeyu-Li/C-template) - a template for C 
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas. Live @ https://zeyu-li.github.io/chess/index.html
-* [choose_your_own_adventure_react_framework](https://github.com/Zeyu-Li/choose_your_own_adventure_react_framework) - Create a choose your adventure game with this React framework
+* [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
 * [cipher](https://github.com/Zeyu-Li/cipher) - a cipher based off of the Feistel Cipher
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
@@ -199,6 +203,7 @@
 * [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
 *  [Quarantined_Game_Jam](https://github.com/Zeyu-Li/Quarantined_Game_Jam) - Game Jam during Quarantine; Play now here: https://itch.io/embed-upload/2251772?color=fe5e5e
 * [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
+* [react-native-template](https://github.com/Zeyu-Li/react-native-template) - A template for React Native
 * [react-template](https://github.com/Zeyu-Li/react-template) - a react template
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files
 * [replace_text](https://github.com/Zeyu-Li/replace_text) - a python program to replace text in a text file given a dictionary to replace it with
@@ -207,6 +212,7 @@
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [rust-template](https://github.com/Zeyu-Li/rust-template) - some info on rust, functional programming, and a hello world
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
+* [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music to midi file converter
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
@@ -228,7 +234,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 80; public:private:forked => 69:7:4
+Count: 83; public:private:forked => 71:7:5
 
 ## About
 
