@@ -25,6 +25,7 @@
 ### Web
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
+* [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas live @ https://zeyu-li.github.io/chess/index.html
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
@@ -53,6 +54,7 @@
 
 - [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 - [cipher](https://github.com/Zeyu-Li/cipher) - a cipher based off of the Feistel Cipher
+- [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil
 - [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)
 - [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 - [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - a GitHub sorting using python and PyGithub
@@ -63,6 +65,7 @@
 - [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - a text based python game
 - [data_formatting](https://github.com/Zeyu-Li/data_formatting) - a python program to replace text in a text file
 - [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a django based ecommerce app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
+- [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
 - [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 
 ### Notes (Latex)
@@ -120,7 +123,8 @@
 
 ### Templates
 
-* [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
+* [template](https://github.com/Zeyu-Li/template) - a standard template containing a README and a license
+* [django-template](https://github.com/Zeyu-Li/django-template) - a django template
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - a template for a visual studio project
 * [angular-template](https://github.com/Zeyu-Li/angular-template) - a template for Angular
 * [react-template](https://github.com/Zeyu-Li/react-template) - a react template
@@ -172,6 +176,8 @@
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 * [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a djanog based ecommerse app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
+* [django-template](https://github.com/Zeyu-Li/django-template) - a django template
+* [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
@@ -195,6 +201,7 @@
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
+* [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [pong](https://github.com/Zeyu-Li/pong) - a pong recreation using pygame
 * [primes](https://github.com/Zeyu-Li/primes) - intro into TypeScript by checking if a number is prime or not
@@ -234,7 +241,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 83; public:private:forked => 71:7:5
+Count: 86; public:private:forked => 74:7:5
 
 ## About
 
