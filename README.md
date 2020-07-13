@@ -26,6 +26,8 @@
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
+* [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package
+* [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas live @ https://zeyu-li.github.io/chess/index.html
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [scoll_with_style](https://github.com/Zeyu-Li/scoll_with_style) - (working) a chrome extension used to stylize the scroll bar
@@ -81,6 +83,7 @@
 ### Other
 
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
+* [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - the finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [quick_algorithms](https://github.com/Zeyu-Li/quick_algorithms) - a collections of algorithms and/or formula
 * [free_blender_models](https://github.com/Zeyu-Li/free_blender_models) - free Blender models
@@ -137,6 +140,7 @@
 ### Collaborated/ Forked
 
 * [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music to midi file converter
+* [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
@@ -178,6 +182,8 @@
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [django-template](https://github.com/Zeyu-Li/django-template) - a django template
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
+* [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
+* [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
 * [flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued) - started looking into flask but switched to Django
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - a fractions calculator in python
@@ -200,6 +206,7 @@
 * [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [mathbot](https://github.com/Zeyu-Li/mathbot) - Discord bot for mathematics https://dxsmiley.github.io/mathbot/
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - a working matrix multiplication app using C++. Can use using console or hard cording
+* [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
 * [memory](https://github.com/Zeyu-Li/memory) - a matching game made using pygame
 * [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
@@ -241,7 +248,7 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 86; public:private:forked => 74:7:5
+Count: 89; public:private:forked => 76:7:6
 
 ## About
 
