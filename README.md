@@ -256,7 +256,20 @@
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 
-Count: 94; public:private:forked => 80:7:7
+Total: 94; public:private:forked => 80:7:7
+
+
+
+## Gists
+
+- [**cloudSettings**](https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c) - Visual Studio Code Settings Sync Gist
+- [**README.md**](https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76) - A list of all my projects
+- [**.vimrc**](https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
+- [**counter.py**](https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6) - Counts the number of GitHub repos a person has
+- [**discord.md**](https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7) - A simple help guide for Discord noobs
+- [**change.sh**](https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5) - Changes git user
+
+Total: 6
 
 
 
