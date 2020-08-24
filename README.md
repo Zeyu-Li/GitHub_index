@@ -75,7 +75,9 @@
 
 ### Notes (Latex)
 
-* [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
+- [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself
+ - [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
+
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - a review of CMPUT 174 @ U of A w/ tips and tricks
 * [resume](https://github.com/Zeyu-Li/resume) - my resume
 * [resume-template](https://github.com/Zeyu-Li/resume-template) - a LaTeX resume template
@@ -98,9 +100,10 @@
 * [Unreal-Template-Old](https://github.com/Zeyu-Li/Unreal-Template-Old) - A Old Unreal Template. New one here: https://github.com/Zeyu-Li/Unreal-Template
 * [Unreal-Template](https://github.com/Zeyu-Li/Unreal-Template) - An Unreal Engine template. Because of a git rename bug, inherits from https://github.com/Zeyu-Li/Unreal-Template-Old
 
-#### **Automation Scripts**
+#### **Automation Scripts/Tools**
 
 * [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
+* [strings](https://github.com/Zeyu-Li/strings) - common string operations
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
 * [google_sheets_script](https://github.com/Zeyu-Li/google_sheets_script) - my customized private version of the repo above
@@ -237,6 +240,7 @@
 * [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music to midi file converter
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
+* [strings](https://github.com/Zeyu-Li/strings) - common string operations
 * [template](https://github.com/Zeyu-Li/template) - a standard template wil README and a license
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
@@ -255,8 +259,9 @@
 * [website](https://github.com/Zeyu-Li/website) - my personal website, made using jQuary and Bootstrap (live @ [link](https://zeyu-li.github.io/website/coding.html))
 * [website_boilerplate](https://github.com/Zeyu-Li/website_boilerplate) - a simple website boilerplate
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
+* [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself
 
-Total: 94; public:private:forked => 80:7:7
+Total: 95; public:private:forked => 81:7:7
 
 
 
