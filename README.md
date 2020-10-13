@@ -1,5 +1,10 @@
-
 # GITHUB INDEX
+
+<a name="top"></a>
+
+<a href="#all">Jump to **All** repos</a>
+
+<a href="#gist">Jump to **Gists**</a>
 
 ## School
 
@@ -27,6 +32,7 @@
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - Django ecommerce application. Successor of https://github.com/Zeyu-Li/django_ecommerse_app_deprecated
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
+* [emojis-finder](https://github.com/Zeyu-Li/emojis-finder) - A website dedicated to finding the emoji you want
 * [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package
 * [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas live @ https://zeyu-li.github.io/chess/index.html
@@ -38,6 +44,7 @@
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - an web-based unboxing game w/ jQuary and animations
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of the JW Player
 * [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - a django based ecommerce app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))
+* [eClass_dark](https://github.com/Zeyu-Li/eClass_dark) - a Chrome extension that makes eClass dark along with some other quality of life adjustments
 
 ### C-styled
 
@@ -103,6 +110,7 @@
 #### **Automation Scripts/Tools**
 
 * [grapher_public](https://github.com/Zeyu-Li/grapher_public) - the public version of [grapher](https://github.com/Zeyu-Li/grapher); a graphing script that takes in a Google Drive folder, extract all worksheets and get all values in a certain range so to graph a summary using matplotlib
+* [eClass_dark](https://github.com/Zeyu-Li/eClass_dark) - a Chrome extension that makes eClass dark along with some other quality of life adjustments
 * [strings](https://github.com/Zeyu-Li/strings) - common string operations
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - a python script that merges (a variable amount of) pdfs and outputs a single pdf
 * [google_sheets_script_public](https://github.com/Zeyu-Li/google_sheets_script_public) - a public version of google_sheets_script where you can fill in the info and using Google Sheets API script and python to clone from template and change dates in certain cell
@@ -147,6 +155,7 @@
 ### Collaborated/ Forked
 
 * [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music to midi file converter
+* [github-readme-stats](https://github.com/Zeyu-Li/github-readme-stats) - ⚡ Dynamically generated stats for your github readmes
 * [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - helped some high school friends with a static website that keeps score in a robotics tournament
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - A Blender addon that captures and displays keyboard and mouse inputs on screen
@@ -162,6 +171,8 @@
 * *[CS_174](https://github.com/Zeyu-Li/CS_174)* - a collection of assignments in CMPUT 174 @ U of A
 * *[CS_175](https://github.com/Zeyu-Li/CS_175)* - a collection of assignments in CMPUT 175 @ U of A
 * *[flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued)* - started looking into flask but switched to Django
+
+<a name="all"></a>
 
 ## All
 
@@ -189,6 +200,8 @@
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - intro into Django
 * [django-template](https://github.com/Zeyu-Li/django-template) - a django template
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - a tutorial for Django projects
+* [eClass_dark](https://github.com/Zeyu-Li/eClass_dark) - a Chrome extension that makes eClass dark along with some other quality of life adjustments
+* [emojis-finder](https://github.com/Zeyu-Li/emojis-finder) - A website dedicated to finding the emoji you want
 * [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 * [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizz buzz in Java
@@ -199,6 +212,7 @@
 * [Git_initer](https://github.com/Zeyu-Li/Git_initer) - A Shell Script script that git inits, adds, commits when run
 * [Git_initer_PowerShell](https://github.com/Zeyu-Li/Git_initer_PowerShell) - A Git initer, adder, and commits on first run. Based on https://github.com/Zeyu-Li/Git_initer
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - a listing of all my GitHub projects, i.e. this.self
+* [github-readme-stats](https://github.com/Zeyu-Li/github-readme-stats) - ⚡ Dynamically generated stats for your github readmes
 * [gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes)
 * [golang_template](https://github.com/Zeyu-Li/golang_template) - a Go boilerplate
@@ -261,9 +275,11 @@
 * [website_old](https://github.com/Zeyu-Li/website_old) - my old website written w/out Bootstrap
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself
 
-Total: 95; public:private:forked => 81:7:7
+Total: 98; public:private:forked => 83:7:8
 
 
+
+<a name="gist"></a>
 
 ## Gists
 
@@ -273,8 +289,11 @@ Total: 95; public:private:forked => 81:7:7
 - [**counter.py**](https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6) - Counts the number of GitHub repos a person has
 - [**discord.md**](https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7) - A simple help guide for Discord noobs
 - [**change.sh**](https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5) - Changes git user
+- [**pascal.py**](https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1) - generates a level of the pascal triangle
+- [**regex.py**](https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953) - Does regex searches
+- [**generater.py**](https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4) - generates a folder and copies a md item to clipboard
 
-Total: 6
+Total: 9
 
 
 
@@ -283,3 +302,5 @@ Total: 6
 This is a index to all my **GitHub repos**. It acts as a quicklink to all my projects as well as a description to each repo
 
 *Note, there may be multiple copies of repos because it belongs to multiple sections
+
+<a href="#top">Back to Top</a>
