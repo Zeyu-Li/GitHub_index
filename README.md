@@ -83,7 +83,7 @@
         </li>
     </ul>
 </details>
-<a href="#all_r">Jump to **All** repos</a>
+<a href="#all_r">Jump to <b>All</b> repos</a>
 
 <a href="#gist">Jump to **Gists**</a>
 
