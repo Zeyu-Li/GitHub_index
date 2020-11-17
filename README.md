@@ -1,9 +1,15 @@
 # GitHub Index
 
+<style>
+    summary {
+        font-size: 2.5em;
+    }
+</style>
+
 <a name="top"></a>
 
 <details>
-    <summary style="font-size:2.5em;">Index</summary>
+    <summary>Index</summary>
         <ul>
         <li>
             <p><a href='#web'><span>Web</span></a></p>
