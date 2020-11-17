@@ -1,37 +1,88 @@
+# GitHub Index
+
 <a name="top"></a>
 
-## Index
-
-* [Web](#web)
-  * [Django](#django)
-  * [Static](#static)
-  * [Chrome Extension](chrome-extension)
-  * [**Node**](#node)
-    * [React](#react)
-    * [Express](#express)
-* [Python](#python)
-  * [Pygame](#pygame)
-  * [Django](#django)
-* [C-styled](#c) - C, C++, C#, Java
-  * [Unity](#unity)
-* [Games](#games)
-  * [Unreal](#unreal)
-  * [Unity](#unity)
-  * [Pygame](#pygame-n3756)
-* [Notes](#notes)
-  * [LaTeX](#latex)
-* [School](#school)
-  * [University](#university)
-  * [High School](#high-school)
-* [Other](#other)
-  * [Automation Scripts/Tools](#automation)
-  * [Tests](#tests)
-* [Templates/Boilerplates](#template)
-  * [Programming Languages](#language)
-  * [Libraries](#libraries)
-  * [Other](#other)
-* [Collaborations or Forked](#fork)
-* [Private Repos](#private)
+<details>
+    <summary style="font-size:2.5em;">Index</summary>
+        <ul>
+        <li>
+            <p><a href='#web'><span>Web</span></a></p>
+            <ul>
+                <li>
+                    <p><a href='#django'><span>Django</span></a></p>
+                </li>
+                <li>
+                    <p><a href='#static'><span>Static</span></a></p>
+                </li>
+                <li>
+                    <p><a href='chrome-extension'><span>Chrome Extension</span></a></p>
+                </li>
+                <li>
+                    <p><a href='#node'><strong><span>Node</span></strong></a></p>
+                    <ul>
+                        <li><a href='#react'><span>React</span></a></li>
+                        <li><a href='#express'><span>Express</span></a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#python'><span>Python</span></a></p>
+            <ul>
+                <li><a href='#pygame'><span>Pygame</span></a></li>
+                <li><a href='#django'><span>Django</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#c'><span>C-styled</span></a><span> - C, C++, C#, Java</span></p>
+            <ul>
+                <li><a href='#unity'><span>Unity</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#games'><span>Games</span></a></p>
+            <ul>
+                <li><a href='#unreal'><span>Unreal</span></a></li>
+                <li><a href='#unity'><span>Unity</span></a></li>
+                <li><a href='#pygame-n3756'><span>Pygame</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#notes'><span>Notes</span></a></p>
+            <ul>
+                <li><a href='#latex'><span>LaTeX</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#school'><span>School</span></a></p>
+            <ul>
+                <li><a href='#university'><span>University</span></a></li>
+                <li><a href='#high-school'><span>High School</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#other'><span>Other</span></a></p>
+            <ul>
+                <li><a href='#automation'><span>Automation Scripts/Tools</span></a></li>
+                <li><a href='#tests'><span>Tests</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#template'><span>Templates/Boilerplates</span></a></p>
+            <ul>
+                <li><a href='#language'><span>Programming Languages</span></a></li>
+                <li><a href='#libraries'><span>Libraries</span></a></li>
+                <li><a href='#other'><span>Other</span></a></li>
+            </ul>
+        </li>
+        <li>
+            <p><a href='#fork'><span>Collaborations or Forked</span></a></p>
+        </li>
+        <li>
+            <p><a href='#private'><span>Private Repos</span></a></p>
+        </li>
+    </ul>
+</details>
 
 [Jump to **All** repos](#all_r)
 
