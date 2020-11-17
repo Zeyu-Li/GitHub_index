@@ -3,7 +3,7 @@
 <a name="top"></a>
 
 <details>
-    <summary><font size="16">Index</font></summary>
+    <summary><h1>Index</h1></summary>
         <ul>
         <li>
             <p><a href='#web'><span>Web</span></a></p>
