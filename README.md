@@ -1,9 +1,9 @@
 # GitHub Index
 
-<a name="top"></a>
+<a name="top"></a> 
 
 <details>
-    <summary><h1>Index</h1></summary>
+    <summary><i>Click the header/title to expand or minimize section</i><h1>Index</h1></summary>
         <ul>
         <li>
             <p><a href='#web'><span>Web</span></a></p>
@@ -83,7 +83,6 @@
         </li>
     </ul>
 </details>
-
 [Jump to **All** repos](#all_r)
 
 <a href="#gist">Jump to **Gists**</a>
@@ -91,7 +90,7 @@
 ---
 
 <details open>
-    <summary style="font-size: 2.5em;" name="web">(17) Web Projects</summary>
+    <summary name="web">(17) <h1>Web Projects</h1></summary>
     <h3><a name="django" class="md-header-anchor"></a><span>(3) Django</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/django_ecommerse_app'><span>django_ecommerse_app</span></a><span> - Django
@@ -141,7 +140,7 @@
           chrome extension used to stylize the scroll bar</span></li>
     </ul>
     <details open>
-    <summary style="font-size: 2em;" name="node">(4) Node</summary>
+    <summary name="node">(4) <h2>Node</h2></summary>
     <h3><a name="react" class="md-header-anchor"></a><span>(2) React</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/emojis-finder'><span>emojis-finder</span></a><span> - A website dedicated
@@ -165,8 +164,10 @@
         </details>
 </details>
 
+
+
 <details open>
-    <summary name="python" style="font-size:2.5em;">(15) Python</summary>
+    <summary name="python">(15) <h1>Python</h1></summary>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/Midi_interface'><span>Midi_interface</span></a><span> - A interface for
           MIDIUtil</span></li>
@@ -212,7 +213,7 @@
     </ul></details>
 
 <details open>
-    <summary name="c" style="font-size:2.5em;">(12) C-styled (C, C++, C#, Java)</summary>
+    <summary name="c">(12) <h1>C-styled (C, C++, C#, Java)</h1></summary>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/matrix_multiplication'><span>matrix_multiplication</span></a><span> - a
           working matrix multiplication app using C++. Can use using console or hard cording</span></li>
@@ -249,7 +250,7 @@
 </details>
 
 <details open>
-    <summary name="games" style="font-size:2.5em;">(13) Games</summary>
+    <summary name="games">(13) <h1>Games</h1></summary>
     <h3><a name="unreal" class="md-header-anchor"></a><span>(1) Unreal</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/Unreal-Tutorial'><span>Unreal-Tutorial</span></a><span> - An Unreal Engine
@@ -294,7 +295,7 @@
 </details>
 
 <details open>
-    <summary name="notes" style="font-size:2.5em;">(12) Notes</summary>
+    <summary name="notes">(12) <h1>Notes</h1></summary>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/Zeyu-Li'><span>Zeyu-Li</span></a><span> - A little snippet about
           myself</span></li>
@@ -329,7 +330,7 @@
 </details>
 
 <details open>
-    <summary name="school" style="font-size:2.5em;">(12) School</summary>
+    <summary name="school">(12) <h1>School</h1></summary>
     <h3><a name="university" class="md-header-anchor"></a><span>(9) University</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/kattis_solutions'><span>kattis_solutions</span></a><span> - Kattis
@@ -365,7 +366,7 @@
 </details>
 
 <details open>
-    <summary name="other" style="font-size:2.5em;">(19) Other</summary>
+    <summary name="other">(19) <h1>Other</h1></summary>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/mb3d'><span>mb3d</span></a><span> - Mandelbulb3D, a 3D fractal
           generator</span></li>
@@ -422,7 +423,7 @@
 </details>
 
 <details open>
-    <summary name="template" style="font-size:2.5em;">(18) Templates/Boilerplates</summary>
+    <summary name="template">(18) <h1>Templates/Boilerplates</h1></summary>
     <h3><a name="language" class="md-header-anchor"></a><span>(8) Programming Languages</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/C-template'><span>C-template</span></a><span> - a template for C </span>
@@ -472,7 +473,7 @@
 </details>
 
 <details open>
-	<summary name="fork" style="font-size:2.5em;">(7) Collaborations or Forked</summary>
+	<summary name="fork">(7) <h1>Collaborations or Forked</h1></summary>
 <ul>
       <li><a href='https://github.com/Zeyu-Li/sheetToMIDI'><span>sheetToMIDI</span></a><span> - A sheet music to midi
           file converter</span></li>
@@ -493,7 +494,7 @@
 </details>
 
 <details open>
-	<summary name="private" style="font-size:2.5em;">(8) All Private Repos</summary>
+	<summary name="private">(8) <h1>All Private Repos</h1></summary>
 <ul>
       <li><em><a
             href='https://github.com/Zeyu-Li/ACPC_2020_Cheat_Sheet'><span>ACPC_2020_Cheat_Sheet</span></a></em><span> -
@@ -523,7 +524,7 @@
 <a name="all_r"></a>
 
 <details open>
-​	<summary style="font-size:3em;">(99) All GitHub Repos</summary>
+​	<summary>(99) <h1>All GitHub Repos</h1></summary>
         <ul>
       <li><a
           href='https://github.com/Zeyu-Li/3D_print_doggy_chain_template'><span>3D_print_doggy_chain_template</span></a><span>
@@ -759,12 +760,13 @@
     </ul>
 </details>
 
+
 Total: 99; public : private : forked => 83:8:8
 
 ----
 
 <details open>
-​	<summary name="gist" style="font-size:2.5em;">(9) All Gists</summary>
+​	<summary name="gist">(9) <h1>All Gists</h1></summary>
 <ul>
    <li><a
 ​     href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong><span>cloudSettings</span></strong></a><span>
