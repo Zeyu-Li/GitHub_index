@@ -83,7 +83,7 @@
         </li>
     </ul>
 </details>
-[Jump to **All** repos](#all_r)
+<a href="#all_r">Jump to **All** repos</a>
 
 <a href="#gist">Jump to **Gists**</a>
 
@@ -163,8 +163,6 @@
     </ul>
         </details>
 </details>
-
-
 
 <details open>
     <summary name="python">(15) <h1>Python</h1></summary>
@@ -759,8 +757,6 @@
           myself</span></li>
     </ul>
 </details>
-
-
 Total: 99; public : private : forked => 83:8:8
 
 ----
