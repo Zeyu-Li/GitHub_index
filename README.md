@@ -90,20 +90,19 @@
 ---
 
 <details open>
-    <summary name="web">(17) <h1>Web Projects</h1></summary>
+    <summary name="web">(18) <h1>Web Projects</h1></summary>
     <h3><a name="django" class="md-header-anchor"></a><span>(3) Django</span></h3>
     <ul>
       <li><a href='https://github.com/Zeyu-Li/django_ecommerse_app'><span>django_ecommerse_app</span></a><span> - Django ecommerce application. Successor of </span><a href='https://github.com/Zeyu-Li/django_ecommerse_app_deprecated' target='_blank' class='url'>https://github.com/Zeyu-Li/django_ecommerse_app_deprecated</a></li>
       <li><a href='https://github.com/Zeyu-Li/django-tutorial'><span>django-tutorial</span></a><span> - a tutorial for Django projects</span></li>
       <li><a href='https://github.com/Zeyu-Li/django_ecommerse_app_deprecated'><span>django_ecommerse_app_deprecated</span></a><span> - a django based ecommerce app, made using Django and Bootstrap (live @ -l-i-n-k- (AWS is too expensive to maintain, so is not live anymore))</span></li>
     </ul>
-    <h3><a name="static" class="md-header-anchor"></a><span>(7) Static</span></h3>
+    <h3><a name="static" class="md-header-anchor"></a><span>(8) Static</span></h3>
     <ul>
         <li><a href='https://github.com/Zeyu-Li/website'><span>website</span></a><span> - My new personal website! Live now @  </span><a href='https://zeyu-li.github.io/website'><span>link</span></a><span></span></li>
       <li><a href='https://github.com/Zeyu-Li/personal_website'><span>personal_website</span></a><span> - my personal website, made using jQuary and Bootstrap (live @ </span><a href='https://zeyu-li.github.io/website/coding.html'><span>link</span></a><span>)</span></li>
       <li><a href='https://github.com/Zeyu-Li/chess'><span>chess</span></a><span> - A web chess board made with jQuery and html canvas live @ </span><a href='https://zeyu-li.github.io/chess/index.html' target='_blank' class='url'>https://zeyu-li.github.io/chess/index.html</a></li>
-      <li><a href='https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker'><span>choose_your_own_adventure_react_maker</span></a><span> - Starting creating your adventure now by reading the readme then go here: </span><a href='https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html' target='_blank' class='url'>https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html</a>
-      </li>
+      <li><a href='https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker'><span>choose_your_own_adventure_react_maker</span></a><span> - Starting creating your adventure now by reading the readme then go here: </span><a href='https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html' target='_blank' class='url'>https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html</a></li>
       <li><a href='https://github.com/Zeyu-Li/web-goals'><span>web-goals</span></a><span> - A local web-based application that updated Markdown and makes goals with a time-based component. Live @ </span><a href='https://zeyu-li.github.io/web-goals/' target='_blank' class='url'>https://zeyu-li.github.io/web-goals/</a></li>
       <li><a href='https://github.com/Zeyu-Li/pasta-disasta'><span>pasta-disasta</span></a><span> - what happens when you roll the can of pasta</span></li>
       <li><a href='https://github.com/Zeyu-Li/website_old'><span>website_old</span></a><span> - my old website written w/out Bootstrap</span></li>
@@ -131,8 +130,6 @@
         </details>
 </details>
 
-
-
 <details open>
     <summary name="python">(15) <h1>Python</h1></summary>
     <ul>
@@ -151,8 +148,7 @@
     </ul>
     <h3><a name="pygame" class="md-header-anchor"></a><span>(3) Pygame</span></h3>
     <ul>
-      <li><a href='https://github.com/Zeyu-Li/pong'><span>pong</span></a><span> - a pong recreation using pygame</span>
-      </li>
+      <li><a href='https://github.com/Zeyu-Li/pong'><span>pong</span></a><span> - a pong recreation using pygame</span></li>
       <li><a href='https://github.com/Zeyu-Li/tic_tac_toe'><span>tic_tac_toe</span></a><span> - a tic tac toe recreation using wxPython (this was created not for university but to find a better way famework than pygame)</span></li>
       <li><a href='https://github.com/Zeyu-Li/memory'><span>memory</span></a><span> - a matching game made using pygame</span></li>
     </ul>
@@ -178,12 +174,12 @@
       <li><a href='https://github.com/Zeyu-Li/Unity-Template-2D-2019_3'><span>Unity-Template-2D-2019_3</span></a><span> - A Unity Template for 2D games</span></li>
       <li><a href='https://github.com/Zeyu-Li/Unity-Template-3D-2019_3'><span>Unity-Template-3D-2019_3</span></a><span> - A Unity Template for 3D games</span></li>
       <li><a href='https://github.com/Zeyu-Li/Quarantined_Game_Jam'><span>Quarantined_Game_Jam</span></a><span> - Game Jam during Quarantine; Play now here: </span><a href='https://itch.io/embed-upload/2251772?color=fe5e5e' target='_blank' class='url'>https://itch.io/embed-upload/2251772?color=fe5e5e</a></li>
-      <li><a href='https://github.com/Zeyu-Li/Clockwork'><span>Clockwork</span></a><span> - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (C#) (available @ </span><a href='https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331'><span>itch.io</span></a><span> or
-        </span><a href='https://github.com/Zeyu-Li/ClockworkFinished'><span>link</span></a><span>)</span></li>
+      <li><a href='https://github.com/Zeyu-Li/Clockwork'><span>Clockwork</span></a><span> - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (C#) (available @ </span><a href='https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331'><span>itch.io</span></a><span> or </span><a href='https://github.com/Zeyu-Li/ClockworkFinished'><span>link</span></a><span>)</span></li>
       <li><a href='https://github.com/Zeyu-Li/ClockworkFinished'><span>ClockworkFinished</span></a><span> - the finished built version of </span><a href='https://github.com/Zeyu-Li/Clockwork'><span>Clockwork</span></a></li>
       <li><a href='https://github.com/Zeyu-Li/GGJ-Alberta2020'><span>GGJ-Alberta2020</span></a><span> - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020</span></li>
     </ul>
 </details>
+
 
 <details open>
     <summary name="games">(13) <h1>Games</h1></summary>
@@ -473,39 +469,17 @@ Total: 100; public : private : forked => 84:8:8
 <details open>
 	<summary name="gist">(11) <h1>All Gists</h1></summary>
 <ul>
-    <li><a
-     href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong><span>README_min.md</span></strong></a><span>
-      - A minified readme of the GitHub Index</span></li>
-    <li><a
-     href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong><span>README_max.md</span></strong></a><span>
-      - The maximized version of readme GitHub Index</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong><span>README_old.md</span></strong></a><span>
-      - A list of all my projects</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong><span>.vimrc</span></strong></a><span>
-      - A vim setting gist</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong><span>counter.py</span></strong></a><span>
-      - Counts the number of GitHub repos a person has</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong><span>discord.md</span></strong></a><span>
-      - A simple help guide for Discord noobs</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong><span>change.sh</span></strong></a><span>
-      - Changes git user</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong><span>pascal.py</span></strong></a><span>
-      - generates a level of the pascal triangle</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong><span>regex.py</span></strong></a><span>
-      - Does regex searches</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong><span>generater.py</span></strong></a><span>
-      - generates a folder and copies a md item to clipboard</span></li>
-   <li><a
-     href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong><span>cloudSettings</span></strong></a><span>
-      - Visual Studio Code Settings Sync Gist</span></li>
+    <li><a href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong><span>README_min.md</span></strong></a><span> - A minified readme of the GitHub Index</span></li>
+    <li><a href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong><span>README_max.md</span></strong></a><span> - The maximized version of readme GitHub Index</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong><span>README_old.md</span></strong></a><span> - A list of all my projects</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong><span>.vimrc</span></strong></a><span> - A vim setting gist</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong><span>counter.py</span></strong></a><span> - Counts the number of GitHub repos a person has</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong><span>discord.md</span></strong></a><span> - A simple help guide for Discord noobs</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong><span>change.sh</span></strong></a><span> - Changes git user</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong><span>pascal.py</span></strong></a><span> - generates a level of the pascal triangle</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong><span>regex.py</span></strong></a><span> - Does regex searches</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong><span>generater.py</span></strong></a><span> - generates a folder and copies a md item to clipboard</span></li>
+   <li><a href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong><span>cloudSettings</span></strong></a><span> - Visual Studio Code Settings Sync Gist</span></li>
   </ul>
 </details>
 
