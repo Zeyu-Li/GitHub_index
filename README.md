@@ -106,7 +106,9 @@
     </ul>
     <h3><a name="static" class="md-header-anchor"></a><span>(7) Static</span></h3>
     <ul>
-      <li><a href='https://github.com/Zeyu-Li/website'><span>website</span></a><span> - my personal website, made using
+        <li><a href='https://github.com/Zeyu-Li/website'><span>website</span></a><span> - My new personal website! Live now @  </span><a
+          href='https://zeyu-li.github.io/website'><span>link</span></a><span></span></li>
+      <li><a href='https://github.com/Zeyu-Li/personal_website'><span>personal_website</span></a><span> - my personal website, made using
           jQuary and Bootstrap (live @ </span><a
           href='https://zeyu-li.github.io/website/coding.html'><span>link</span></a><span>)</span></li>
       <li><a href='https://github.com/Zeyu-Li/chess'><span>chess</span></a><span> - A web chess board made with jQuery
@@ -163,6 +165,7 @@
     </ul>
         </details>
 </details>
+
 
 <details open>
     <summary name="python">(15) <h1>Python</h1></summary>
@@ -522,7 +525,7 @@
 <a name="all_r"></a>
 
 <details open>
-​	<summary>(99) <h1>All GitHub Repos</h1></summary>
+	<summary>(99) <h1>All GitHub Repos</h1></summary>
         <ul>
       <li><a
           href='https://github.com/Zeyu-Li/3D_print_doggy_chain_template'><span>3D_print_doggy_chain_template</span></a><span>
@@ -666,6 +669,9 @@
           you roll the can of pasta</span></li>
       <li><a href='https://github.com/Zeyu-Li/pdf_merger'><span>pdf_merger</span></a><span> - a python script that
           merges (a variable amount of) pdfs and outputs a single pdf</span></li>
+      <li><a href='https://github.com/Zeyu-Li/personal_website'><span>personal_website</span></a><span> - my personal website, made using
+          jQuary and Bootstrap (live @ </span><a
+          href='https://zeyu-li.github.io/website/coding.html'><span>link</span></a><span>)</span></li>
       <li><a href='https://github.com/Zeyu-Li/pong'><span>pong</span></a><span> - a pong recreation using pygame</span>
       </li>
       <li><a href='https://github.com/Zeyu-Li/primes'><span>primes</span></a><span> - intro into TypeScript by checking
@@ -746,9 +752,8 @@
           application that updated Markdown and makes goals with a time-based component. Live @ </span><a
           href='https://zeyu-li.github.io/web-goals/' target='_blank'
           class='url'>https://zeyu-li.github.io/web-goals/</a></li>
-      <li><a href='https://github.com/Zeyu-Li/website'><span>website</span></a><span> - my personal website, made using
-          jQuary and Bootstrap (live @ </span><a
-          href='https://zeyu-li.github.io/website/coding.html'><span>link</span></a><span>)</span></li>
+      <li><a href='https://github.com/Zeyu-Li/website'><span>website</span></a><span> - My new personal website! Live now @  </span><a
+          href='https://zeyu-li.github.io/website'><span>link</span></a><span></span></li>
       <li><a href='https://github.com/Zeyu-Li/website_boilerplate'><span>website_boilerplate</span></a><span> - a simple
           website boilerplate</span></li>
       <li><a href='https://github.com/Zeyu-Li/website_old'><span>website_old</span></a><span> - my old website written
@@ -757,42 +762,50 @@
           myself</span></li>
     </ul>
 </details>
+
 Total: 99; public : private : forked => 83:8:8
 
 ----
 
 <details open>
-​	<summary name="gist">(9) <h1>All Gists</h1></summary>
+	<summary name="gist">(11) <h1>All Gists</h1></summary>
 <ul>
+    <li><a
+     href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong><span>README_min.md</span></strong></a><span>
+      - A minified readme of the GitHub Index</span></li>
+    <li><a
+     href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong><span>README_max.md</span></strong></a><span>
+      - The maximized version of readme GitHub Index</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong><span>cloudSettings</span></strong></a><span>
-​      - Visual Studio Code Settings Sync Gist</span></li>
+     href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong><span>README_old.md</span></strong></a><span>
+      - A list of all my projects</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong><span>README.md</span></strong></a><span>
-​      - A list of all my projects</span></li>
+     href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong><span>.vimrc</span></strong></a><span>
+      - A vim setting gist</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong><span>.vimrc</span></strong></a><span>
-​      - A vim setting gist</span></li>
+     href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong><span>counter.py</span></strong></a><span>
+      - Counts the number of GitHub repos a person has</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong><span>counter.py</span></strong></a><span>
-​      - Counts the number of GitHub repos a person has</span></li>
+     href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong><span>discord.md</span></strong></a><span>
+      - A simple help guide for Discord noobs</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong><span>discord.md</span></strong></a><span>
-​      - A simple help guide for Discord noobs</span></li>
+     href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong><span>change.sh</span></strong></a><span>
+      - Changes git user</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong><span>change.sh</span></strong></a><span>
-​      - Changes git user</span></li>
+     href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong><span>pascal.py</span></strong></a><span>
+      - generates a level of the pascal triangle</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong><span>pascal.py</span></strong></a><span>
-​      - generates a level of the pascal triangle</span></li>
+     href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong><span>regex.py</span></strong></a><span>
+      - Does regex searches</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong><span>regex.py</span></strong></a><span>
-​      - Does regex searches</span></li>
+     href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong><span>generater.py</span></strong></a><span>
+      - generates a folder and copies a md item to clipboard</span></li>
    <li><a
-​     href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong><span>generater.py</span></strong></a><span>
-​      - generates a folder and copies a md item to clipboard</span></li>
+     href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong><span>cloudSettings</span></strong></a><span>
+      - Visual Studio Code Settings Sync Gist</span></li>
   </ul>
 </details>
+
 
 
 ## About
