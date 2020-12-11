@@ -44,7 +44,7 @@
 * [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package ♟️
 * [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 
-## Python
+## (15) Python
 
 * [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil 🎹
 * [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
@@ -62,7 +62,7 @@
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
 * [memory](https://github.com/Zeyu-Li/memory) - A matching game using pygame 🧠
 
-### (3)Django
+### (3) Django
 
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - A Django ecommerce application. Has a working login and shopping cart 🛒!
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
