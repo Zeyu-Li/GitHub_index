@@ -171,8 +171,6 @@
 </ul>
 </details>
 
-
-
 <details open>
     <summary name="games">(13) <h1>Games</h1></summary>
     <h3><a name="unreal" class="md-header-anchor"></a><span>(1) Unreal</span></h3>
@@ -335,8 +333,6 @@
 <li><em><a href='https://github.com/Zeyu-Li/flask_project_discontinued'>flask_project_discontinued</a></em> - My Intro into Flask (discontinued to learn Django)</li>
 </ul>
 </details>
-
-
 ---
 
 <a name="all_r"></a>
@@ -450,8 +446,6 @@
 <li><a href='https://github.com/Zeyu-Li/Zeyu-Li'>Zeyu-Li</a> - A little snippet about myself 😀!</li>
 </ul>
 </details>
-
-
 Total: 104; public : private : forked => 87:8:9
 
 ----
