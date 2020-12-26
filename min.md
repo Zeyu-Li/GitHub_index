@@ -15,7 +15,7 @@
                     <p><a href='#static'><span>Static</span></a></p>
                 </li>
                 <li>
-                    <p><a href='chrome-extension'><span>Chrome Extension</span></a></p>
+                    <p><a href='#chrome-extension'><span>Chrome Extension</span></a></p>
                 </li>
                 <li>
                     <p><a href='#node'><strong><span>Node</span></strong></a></p>
@@ -83,7 +83,6 @@
         </li>
     </ul>
 </details>
-
 <a href="#all_r">Jump to <b>All</b> repos</a>
 
 <a href="#gist">Jump to **Gists**</a>
@@ -110,6 +109,12 @@
 <li><a href='https://github.com/Zeyu-Li/website_old'>website_old</a> - My old personal website. The new one is @ <a href='https://zeyu-li.github.io/website/' target='_blank' class='url'>https://zeyu-li.github.io/website/</a></li>
 <li><a href='https://github.com/Zeyu-Li/unboxing'>unboxing</a> - A very jank unboxing game 🧰</li>
 </ul>
+    <h3><a name="chrome-extension" class="md-header-anchor"></a><span>(3) Chrome Extension</span></h3>
+<ul>
+<li><a href='https://github.com/Zeyu-Li/eClass_dark'>eClass_dark</a> - A Chrome extension that makes eClass dark along with some other quality of life adjustments! 👀</li>
+<li><a href='https://github.com/Zeyu-Li/speedy_jwplayer'>speedy_jwplayer</a> - It is a simple Chrome extension that modifies the speed of ⏩ JW Player</li>
+<li><a href='https://github.com/Zeyu-Li/scroll_with_style'>scroll_with_style</a> - A stylized scrollbar Chrome extension</li>
+</ul>
     <details>
     <summary name="node">(4) <h2>Node</h2></summary>
     <h3><a name="react" class="md-header-anchor"></a><span>(2) React</span></h3>
@@ -124,6 +129,7 @@
  </ul>
         </details>
 </details>
+
 <details>
     <summary name="python">(15) <h1>Python</h1></summary>
     <ul>
@@ -150,7 +156,7 @@
 <li><a href='https://github.com/Zeyu-Li/django_ecommerse_app_deprecated'>django_ecommerse_app_deprecated</a> - Django login application. Not live due to AWS high charging fees 💸 New version here: <a href='https://github.com/Zeyu-Li/django_ecommerce_app' target='_blank' class='url'>https://github.com/Zeyu-Li/django_ecommerce_app</a></li>
 </ul></details>
 <details>
-    <summary name="c">(12) <h1>C-styled (C, C++, C#, Java)</h1></summary>
+    <summary name="c">(13) <h1>C-styled (C, C++, C#, Java)</h1></summary>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/matrix_multiplication'>matrix_multiplication</a> - Matrix multiplication app using C++</li>
 <li><a href='https://github.com/Zeyu-Li/rref'>rref</a> - A ref calculator in C++ 🧮</li>
@@ -158,9 +164,10 @@
 <li><a href='https://github.com/Zeyu-Li/c_linked_list'>c_linked_list</a> - A singly linked list in C 🔗. Can be found in: <a href='https://github.com/Zeyu-Li/quick_algorithms' target='_blank' class='url'>https://github.com/Zeyu-Li/quick_algorithms</a></li>
 <li><a href='https://github.com/Zeyu-Li/FizzBuzz'>FizzBuzz</a> - fizzbuzz in Java 🥤</li>
  </ul>
-    <h3><a name="unity" class="md-header-anchor"></a><span>(7) Unity</span></h3>
+    <h3><a name="unity" class="md-header-anchor"></a><span>(8) Unity</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/unity-user-guide'>unity-user-guide</a> - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity 🎮</li>
+<li><a href='https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial'>Unity-Advanced-3D-Tutorial</a> - An overview of advanced Unity 3D features 🎮!</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-2D'>Unity-Template-2D</a> - A Unity Tutorial for 2D games 🎮! Acts as a template for a 2D platformer</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-3D'>Unity-Template-3D</a> - A Unity Tutorial for 3D games 🎮! Can act as a 3D template for a platformer</li>
 <li><a href='https://github.com/Zeyu-Li/Quarantined_Game_Jam'>Quarantined_Game_Jam</a> - Game Jam during Quarantine 😷. Play now here: <a href='https://itch.io/embed-upload/2251772?color=fe5e5e' target='_blank' class='url'>https://itch.io/embed-upload/2251772?color=fe5e5e</a></li>
@@ -169,6 +176,7 @@
 <li><a href='https://github.com/Zeyu-Li/GGJ-Alberta2020'>GGJ-Alberta2020</a> - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 🎮</li>
 </ul>
 </details>
+
 <details>
     <summary name="games">(13) <h1>Games</h1></summary>
     <h3><a name="unreal" class="md-header-anchor"></a><span>(1) Unreal</span></h3>
@@ -180,6 +188,7 @@
 <li><a href='https://github.com/Zeyu-Li/unity-user-guide'>unity-user-guide</a> - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity 🎮</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-2D'>Unity-Template-2D</a> - A Unity Tutorial for 2D games 🎮! Acts as a template for a 2D platformer</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-3D'>Unity-Template-3D</a> - A Unity Tutorial for 3D games 🎮! Can act as a 3D template for a platformer</li>
+<li><a href='https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial'>Unity-Advanced-3D-Tutorial</a> - An overview of advanced Unity 3D features 🎮!</li>
 <li><a href='https://github.com/Zeyu-Li/Quarantined_Game_Jam'>Quarantined_Game_Jam</a> - Game Jam during Quarantine 😷. Play now here: <a href='https://itch.io/embed-upload/2251772?color=fe5e5e' target='_blank' class='url'>https://itch.io/embed-upload/2251772?color=fe5e5e</a></li>
 <li><a href='https://github.com/Zeyu-Li/Clockwork'>Clockwork</a> - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (C#) (available @ <a href='https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331'>itch.io</a> or <a href='https://github.com/Zeyu-Li/ClockworkFinished'>link</a>)</li>
 <li><a href='https://github.com/Zeyu-Li/ClockworkFinished'>ClockworkFinished</a> - This is the finished game of Soulwork 🕔; The finished built version of <a href='https://github.com/Zeyu-Li/Clockwork'>Clockwork</a></li>
@@ -194,8 +203,9 @@
 <li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
 </ul>
 </details>
+
 <details>
-    <summary name="notes">(12) <h1>Notes</h1></summary>
+    <summary name="notes">(13) <h1>Notes</h1></summary>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/Zeyu-Li'>Zeyu-Li</a> - A little snippet about myself 😀!</li>
 <li><a href='https://github.com/Zeyu-Li/GitHub_index'>GitHub_index</a> - An index for all my GitHub repos 📋, view @ <a href='https://github.com/Zeyu-Li/GitHub_index#github-index' target='_blank' class='url'>https://github.com/Zeyu-Li/GitHub_index#github-index</a>, i.e. this.self</li>
@@ -205,18 +215,20 @@
 <li><a href='https://github.com/Zeyu-Li/Vim_help'>Vim_help</a> - This is to help getting up and running with Vim</li>
 <li><a href='https://github.com/Zeyu-Li/TensorFlow_installation_guide'>TensorFlow_installation_guide</a> - A guide to installing TensorFlow 2 🤖</li>
 </ul>
-    <h3><a name="latex" class="md-header-anchor"></a><span>(5) LaTeX</span></h3>
+    <h3><a name="latex" class="md-header-anchor"></a><span>(6) LaTeX</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/honor_cal_notes'>honor_cal_notes</a> - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf</li>
+<li><a href='https://github.com/Zeyu-Li/course-requirements'>course-requirements</a> - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub</li>
 <li><a href='https://github.com/Zeyu-Li/CMPUT-174-Review'>CMPUT-174-Review</a> - Review of CMPUT 174 at U of A 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/resume-template'>resume-template</a> - A LaTeX resume template 📝</li>
 <li><a href='https://github.com/Zeyu-Li/resume'>resume</a> - My resume and CV in LaTeX 📄</li>
 <li><em><a href='https://github.com/Zeyu-Li/cover_letter'>cover_letter</a></em> - my personal cover letter</li>
 </ul>
 </details>
+
 <details>
-    <summary name="school">(12) <h1>School</h1></summary>
-    <h3><a name="university" class="md-header-anchor"></a><span>(9) University</span></h3>
+    <summary name="school">(14) <h1>School</h1></summary>
+    <h3><a name="university" class="md-header-anchor"></a><span>(11) University</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/kattis_solutions'>kattis_solutions</a> - 😾Kattis solutions (Competitive Programming).</li>
 <li><a href='https://github.com/Zeyu-Li/UAPSPC_club'>UAPSPC_club</a> - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me</li>
@@ -225,6 +237,7 @@
 <li><em><a href='https://github.com/Zeyu-Li/CS_174'>CS_174</a></em> - Assignments and other stuff for CMPUT 174 🏫. For notes on CMPUT 174</li>
 <li><em><a href='https://github.com/Zeyu-Li/CS_175'>CS_175</a></em> - A collection of assignments in CMPUT 175 @ U of A 🏫</li>
 <li><em><a href='https://github.com/Zeyu-Li/201-labs'>201-labs</a> - 201 Labs at the U of A 🖥️</em></li>
+<li><a href='https://github.com/Zeyu-Li/201-labs'>201-notes</a> - Notes for CMPUT 201 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/pong'>pong</a> - A pong recreation using pygame 🏓</li>
 <li><a href='https://github.com/Zeyu-Li/tic_tac_toe'>tic_tac_toe</a> - Tic Tac Toe using wxFormBuilder and wxPython ❌</li>
 <li><a href='https://github.com/Zeyu-Li/memory'>memory</a> - A matching game using pygame 🧠</li>
@@ -236,18 +249,22 @@
 <li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
 </ul>
 </details>
+
 <details>
-    <summary name="other">(20) <h1>Other</h1></summary>
+    <summary name="other">(23) <h1>Other</h1></summary>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/mb3d'>mb3d</a> - Mandelbulb3D, a 3D fractal generator</li>
+<li><a href='https://github.com/Zeyu-Li/spinning-donuts'>spinning-donuts</a> - Spinning ASCII Donuts! 🍩</li>
 <li><a href='https://github.com/Zeyu-Li/quick_algorithms'>quick_algorithms</a> - A collections of algorithms, formulas, APTs, and some other notes</li>
 <li><a href='https://github.com/Zeyu-Li/free_blender_models'>free_blender_models</a> - Free Blender models! 🔨</li>
 <li><a href='https://github.com/Zeyu-Li/3D_print_doggy_chain_template'>3D_print_doggy_chain_template</a> - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)</li>
 <li><a href='https://github.com/Zeyu-Li/AMA'>AMA</a> - AMA😃</li>
 </ul>
-    <h3><a name="automation" class="md-header-anchor"></a><span>(10) Automation Scripts/Tools</span></h3>
+    <h3><a name="automation" class="md-header-anchor"></a><span>(12) Automation Scripts/Tools</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/grapher_public'>grapher_public</a> - This project extracts data from a set of Google Sheets worksheets and graphs the result using Google Drive API and gspread and matplotlib 📈</li>
+<li><a href='https://github.com/Zeyu-Li/vscode-prints'>vscode-prints</a> - vs-code extension that has print snippets in multiple languages so you don&#39;t have to type them! 🖨️</li>
+<li><a href='https://github.com/Zeyu-Li/personal-snippets'>personal-snippets</a> - My personal vs code snippets ✂️</li>
 <li><a href='https://github.com/Zeyu-Li/eClass_dark'>eClass_dark</a> - A Chrome extension that makes eClass dark along with some other quality of life adjustments! 👀</li>
 <li><a href='https://github.com/Zeyu-Li/pdf_merger'>pdf_merger</a> - A simple pdf merger using Python 📝</li>
 <li><a href='https://github.com/Zeyu-Li/google_sheets_script_public'>google_sheets_script_public</a> - A script using Google API to copy from template and replace things in each sheet</li>
@@ -267,6 +284,8 @@
 <li><a href='https://github.com/Zeyu-Li/Unreal-Template-Old'>Unreal-Template-Old</a> - A Old Unreal Template with a Git bug 🐞. New one here: <a href='https://github.com/Zeyu-Li/Unreal-Template' target='_blank' class='url'>https://github.com/Zeyu-Li/Unreal-Template</a></li>
 </ul>
 </details>
+
+
 <details>
     <summary name="template">(19) <h1>Templates/Boilerplates</h1></summary>
     <h3><a name="language" class="md-header-anchor"></a><span>(8) Programming Languages</span></h3>
@@ -299,11 +318,12 @@
 </ul>
 </details>
 <details>
-	<summary name="fork">(8) <h1>Collaborations or Forked</h1></summary>
+	<summary name="fork">(9) <h1>Collaborations or Forked</h1></summary>
 <ul>
 <li><a href='https://github.com/Zeyu-Li/Lua-Online'>Lua-Online</a> - Lua Online Editor 👨‍💻: <a href='https://zeyu-li.github.io/Lua-Online/' target='_blank' class='url'>https://zeyu-li.github.io/Lua-Online/</a></li>
+<li><a href='https://github.com/Zeyu-Li/emojis-on-electron'>emojis-on-electron</a> - A port of my emoji finder react project to electron</li>
 <li><a href='https://github.com/Zeyu-Li/sheetToMIDI'>sheetToMIDI</a> - A sheet music (picture) to MIDI file converter 🎶</li>
-<li><a href='https://github.com/Zeyu-Li/github-readme-stats'>github-readme-stats</a> - ⚡ Dynamically generated stats for your github readmes</li>
+<li><a href='https://github.com/Zeyu-Li/github-readme-stats'>github-readme-stats</a> - ⚡ Dynamically generated stats for your GitHub readmes</li>
 <li><a href='https://github.com/Zeyu-Li/mb3d'>mb3d</a> - Mandelbulb3D, a 3D fractal generator</li>
 <li><a href='https://github.com/Zeyu-Li/robotics-scoreboard'>robotics-scoreboard</a> - A simple scoreboard (with timer ⏲️) website application for two teams.</li>
 <li><a href='https://github.com/Zeyu-Li/shortcut_VUr'>shortcut_VUr</a> - Blender mouse and keyboard input viewer ⌨️</li>
@@ -311,6 +331,8 @@
 <li><a href='https://github.com/Zeyu-Li/gitignore'>gitignore</a> - A collection of useful .gitignore templates ❌</li>
 </ul>
 </details>
+
+
 <details>
 	<summary name="private">(9) <h1>All Private Repos</h1></summary>
 <ul>
@@ -325,15 +347,15 @@
 <li><em><a href='https://github.com/Zeyu-Li/flask_project_discontinued'>flask_project_discontinued</a></em> - My Intro into Flask (discontinued to learn Django)</li>
 </ul>
 </details>
-
 ---
 
 <a name="all_r"></a>
 
 <details>
-	<summary>(104) <h1>All GitHub Repos</h1></summary>
+	<summary>(111) <h1>All GitHub Repos</h1></summary>
         <ul>
 <li><em><a href='https://github.com/Zeyu-Li/201-labs'>201-labs</a> - 201 Labs at the U of A 🖥️</em></li>
+<li><a href='https://github.com/Zeyu-Li/201-labs'>201-notes</a> - Notes for CMPUT 201 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/3D_print_doggy_chain_template'>3D_print_doggy_chain_template</a> - A doggy chain or tag template made in Fusion 360 (with template download) (can be 3D printed)</li>
 <li><em><a href='https://github.com/Zeyu-Li/ACPC_2020_Cheat_Sheet'>ACPC_2020_Cheat_Sheet</a></em> - stuff and things for ACPC 2020</li>
 <li><a href='https://github.com/Zeyu-Li/AMA'>AMA</a> - AMA😃</li>
@@ -348,6 +370,7 @@
 <li><a href='https://github.com/Zeyu-Li/Clockwork'>Clockwork</a> - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ <a href='https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331'>itch.io</a> or <a href='https://github.com/Zeyu-Li/ClockworkFinished'>link</a>)</li>
 <li><a href='https://github.com/Zeyu-Li/ClockworkFinished'>ClockworkFinished</a> - This is the finished game of Soulwork 🕔; The finished built version of <a href='https://github.com/Zeyu-Li/Clockwork'>Clockwork</a></li>
 <li><a href='https://github.com/Zeyu-Li/CMPUT-174-Review'>CMPUT-174-Review</a> - Review of CMPUT 174 at U of A 🏫</li>
+<li><a href='https://github.com/Zeyu-Li/course-requirements'>course-requirements</a> - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub</li>
 <li><em><a href='https://github.com/Zeyu-Li/cover_letter'>cover_letter</a></em> - my personal cover letter</li>
 <li><a href='https://github.com/Zeyu-Li/cpp_boilerplate'>cpp_boilerplate</a> - C++ boilerplate. Nothing more, nothing less 📝</li>
 <li><a href='https://github.com/Zeyu-Li/cpp_fractions_lib'>cpp_fractions_lib</a> - a Fractions library in C++</li>
@@ -363,6 +386,7 @@
 <li><a href='https://github.com/Zeyu-Li/django-tutorial'>django-tutorial</a> - A tutorial for Django projects 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/eClass_dark'>eClass_dark</a> - A Chrome extension that makes eClass dark along with some other quality of life adjustments! 👀</li>
 <li><a href='https://github.com/Zeyu-Li/emojis-finder'>emojis-finder</a> - A website dedicated to finding the emoji you want</li>
+<li><a href='https://github.com/Zeyu-Li/emojis-on-electron'>emojis-on-electron</a> - A port of my emoji finder react project to electron</li>
 <li><a href='https://github.com/Zeyu-Li/express_tutorial'>express_tutorial</a> - a tutorial for express.js, a backend node.js package</li>
 <li><a href='https://github.com/Zeyu-Li/expressing-chess'>expressing-chess</a> - Expressing chess with express.js, a backend node.js package ♟️</li>
 <li><a href='https://github.com/Zeyu-Li/FizzBuzz'>FizzBuzz</a> - fizzbuzz in Java 🥤</li>
@@ -395,6 +419,7 @@
 <li><a href='https://github.com/Zeyu-Li/Midi_interface'>Midi_interface</a> - A interface for MIDIUtil 🎹</li>
 <li><a href='https://github.com/Zeyu-Li/pasta-disasta'>pasta-disasta</a> - What happens when you roll the can of pasta 🍝 (made with matter.js)</li>
 <li><a href='https://github.com/Zeyu-Li/pdf_merger'>pdf_merger</a> - A simple pdf merger using Python 📝</li>
+<li><a href='https://github.com/Zeyu-Li/personal-snippets'>personal-snippets</a> - My personal vs code snippets ✂️</li>
 <li><a href='https://github.com/Zeyu-Li/personal_website'>personal_website</a> - My new &quot;static&quot; website, live @ <a href='https://zeyu-li.github.io/website/' target='_blank' class='url'>https://zeyu-li.github.io/website/</a></li>
 <li><a href='https://github.com/Zeyu-Li/pong'>pong</a> - A pong recreation using pygame 🏓</li>
 <li><a href='https://github.com/Zeyu-Li/primes'>primes</a> - A prime detector is TypeScript</li>
@@ -413,10 +438,11 @@
 <li><a href='https://github.com/Zeyu-Li/robotics-scoreboard'>robotics-scoreboard</a> - A simple scoreboard (with timer ⏲️) website application for two teams.</li>
 <li><a href='https://github.com/Zeyu-Li/rref'>rref</a> - (working) an rref calculator</li>
 <li><a href='https://github.com/Zeyu-Li/rust-template'>rust-template</a> - Some info on rust, functional programming, and a hello world 📝</li>
-<li><a href='https://github.com/Zeyu-Li/scoll_with_style'>scoll_with_style</a> - (working) a chrome extension used to stylize the scroll bar</li>
+<li><a href='https://github.com/Zeyu-Li/scroll_with_style'>scroll_with_style</a> - A stylized scrollbar Chrome extension</li>
 <li><a href='https://github.com/Zeyu-Li/sheetToMIDI'>sheetToMIDI</a> - A sheet music (picture) to MIDI file converter 🎶</li>
 <li><a href='https://github.com/Zeyu-Li/shortcut_VUr'>shortcut_VUr</a> - Blender mouse and keyboard input viewer ⌨️</li>
 <li><a href='https://github.com/Zeyu-Li/speedy_jwplayer'>speedy_jwplayer</a> - It is a simple Chrome extension that modifies the speed of ⏩ JW Player</li>
+<li><a href='https://github.com/Zeyu-Li/spinning-donuts'>spinning-donuts</a> - Spinning ASCII Donuts! 🍩</li>
 <li><a href='https://github.com/Zeyu-Li/strings'>strings</a> - common string operations🧵</li>
 <li><a href='https://github.com/Zeyu-Li/template'>template</a> - A template for README files 📝</li>
 <li><a href='https://github.com/Zeyu-Li/TensorFlow_installation_guide'>TensorFlow_installation_guide</a> - A guide to installing TensorFlow 2 🤖</li>
@@ -425,6 +451,7 @@
 <li><a href='https://github.com/Zeyu-Li/TypeScript_template'>TypeScript_template</a> - A simple TypeScript template, nothing more, nothing less 📝</li>
 <li><a href='https://github.com/Zeyu-Li/UAPSPC_club'>UAPSPC_club</a> - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me</li>
 <li><a href='https://github.com/Zeyu-Li/unboxing'>unboxing</a> - A very jank unboxing game 🧰</li>
+<li><a href='https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial'>Unity-Advanced-3D-Tutorial</a> - An overview of advanced Unity 3D features 🎮!</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-2D'>Unity-Template-2D</a> - A Unity Tutorial for 2D games 🎮! Acts as a template for a 2D platformer</li>
 <li><a href='https://github.com/Zeyu-Li/Unity-Template-3D'>Unity-Template-3D</a> - A Unity Tutorial for 3D games 🎮! Can act as a 3D template for a platformer</li>
 <li><a href='https://github.com/Zeyu-Li/unity-user-guide'>unity-user-guide</a> - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity 🎮</li>
@@ -432,6 +459,7 @@
 <li><a href='https://github.com/Zeyu-Li/Unreal-Template-Old'>Unreal-Template-Old</a> - A Old Unreal Template with a Git bug 🐞. New one here: <a href='https://github.com/Zeyu-Li/Unreal-Template' target='_blank' class='url'>https://github.com/Zeyu-Li/Unreal-Template</a></li>
 <li><a href='https://github.com/Zeyu-Li/Vim_help'>Vim_help</a> - This is to help getting up and running with Vim</li>
 <li><a href='https://github.com/Zeyu-Li/vs_project'>vs_project</a> - A starting point for C++ in Visual Studio 📝</li>
+<li><a href='https://github.com/Zeyu-Li/vscode-prints'>vscode-prints</a> - vs-code extension that has print snippets in multiple languages so you don&#39;t have to type them! 🖨️</li>
 <li><a href='https://github.com/Zeyu-Li/web-goals'>web-goals</a> - Makes goals or TODOs with a time-based component and a section for markdown 📝. Live @ <a href='https://zeyu-li.github.io/web-goals/' target='_blank' class='url'>https://zeyu-li.github.io/web-goals/</a></li>
 <li><a href='https://github.com/Zeyu-Li/website'>website</a> - My new personal website! Live now @ <a href='https://zeyu-li.github.io/website/'>link</a></li>
 <li><a href='https://github.com/Zeyu-Li/website_boilerplate'>website_boilerplate</a> - Website boilerplate, nothing more, nothing else 📝</li>
@@ -440,31 +468,35 @@
 </ul>
 </details>
 
-Total: 104; public : private : forked => 87:8:9
+
+Total: 111; public : private : forked => 93:9:9
 
 ----
 
 <details>
-	<summary name="gist">(12) <h1>All Gists</h1></summary>
+	<summary name="gist">(14) <h1>All Gists</h1></summary>
     <ul>
-        <li><a href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong>README_min.md</strong></a> - A minified readme of the GitHub Index</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong>README_max.md</strong></a> - The maximized version of readme GitHub Index</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong>README_old.md</strong></a> - A list of all my projects</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong>.vimrc</strong></a> - A vim setting gist</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/9e59b72b426204beac3877adfac97952'><strong>c#_notes.md</strong></a> - Notes on setting up C# console application</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong>counter.py</strong></a> - Counts the number of GitHub repos a person has</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong>discord.md</strong></a> - A simple help guide for Discord noobs</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong>change.sh</strong></a> - Changes git user</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong>pascal.py</strong></a> - generates a level of the pascal triangle</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong>regex.py</strong></a> - Does regex searches</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong>generater.py</strong></a> - generates a folder and copies a md item to clipboard</li>
-        <li><a href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong>cloudSettings</strong></a> - Visual Studio Code Settings Sync Gist</li>
+<li><a href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong>README_min.md</strong></a> - A minified readme of the GitHub Index</li>
+<li><a href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong>README_max.md</strong></a> - The maximized version of readme GitHub Index</li>
+<li><a href='https://gist.github.com/Zeyu-Li/94b0090612aaaefcb2c149a22cd4fc76'><strong>README_old.md</strong></a> - A list of all my projects</li>
+<li><strong><a href='https://gist.github.com/Zeyu-Li/4815df06e4c6eff6427a163cd72aaf52'>lorem.txt</a></strong> - 5000 words of Lorem Ipsum!</li>
+<li><a href='https://gist.github.com/Zeyu-Li/9e59b72b426204beac3877adfac97952'><strong>c#_notes.md</strong></a> - Notes on setting up C# console application</li>
+<li><a href='https://gist.github.com/Zeyu-Li/79abd495bccea4c47d00b74de41775c7'><strong>discord.md</strong></a> - A simple help guide for Discord noobs</li>
+<li><a href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong>counter.py</strong></a> - Counts the number of GitHub repos a person has</li>
+<li><a href='https://gist.github.com/Zeyu-Li/0f13d2a76c3055e74c46ec2fa65a9025#file-find_file_type-py'><strong>find_file_type.py</strong></a> - Script to find all files of a type in current folder</li>
+<li><a href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong>pascal.py</strong></a> - generates a level of the pascal triangle</li>
+<li><a href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong>regex.py</strong></a> - Does regex searches</li>
+<li><a href='https://gist.github.com/Zeyu-Li/3c60027d9dbc96461d2aafc7dff8f1d5'><strong>change.sh</strong></a> - Changes git user</li>
+<li><a href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong>generater.py</strong></a> - generates a folder and copies a md item to clipboard</li>
+<li><a href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong>cloudSettings</strong></a> - Visual Studio Code Settings Sync Gist</li>
+<li><a href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong>.vimrc</strong></a> - A vim setting gist</li>
     </ul>
 </details>
+
 ## About
 
 This is a index to all my **GitHub repos**. It acts as a quicklink to all my projects as well as a description to each repo
 
-*Note, there may be multiple copies of repos because it belongs to multiple sections
+\* Note, there may be multiple copies of repos because it belongs to multiple sections
 
-<a href="#top">Back to Top</a>
+**<a href="#top">🔝 Back to Top</a>**
