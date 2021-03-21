@@ -117,7 +117,7 @@
 * [memory](https://github.com/Zeyu-Li/memory) - A matching game using pygame 🧠
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🦫
 
-## (16) Notes
+## (17) Notes
 
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋, view @ https://github.com/Zeyu-Li/GitHub_index#github-index, i.e. this.self
@@ -125,6 +125,7 @@
 * [unity-user-guide](https://github.com/Zeyu-Li/unity-user-guide) - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity 🎮
 * [Unreal-Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial) - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well 🎮
 * [javascript_notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
+* [TryHackMe](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻
 * [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 🤖
 
@@ -139,14 +140,15 @@
 - [resume](https://github.com/Zeyu-Li/resume) - My resume and CV in LaTeX 📄
 - *[cover_letter](https://github.com/Zeyu-Li/cover_letter)* - my personal cover letter
 
-## (15) School
+## (16) School
 
-### (12) University
+### (13) University
 
 * [kattis_solutions](https://github.com/Zeyu-Li/kattis_solutions) - 😾 Kattis solutions (Competitive Programming)
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me
 * [course-requirements](https://github.com/Zeyu-Li/course-requirements) - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub
 * [honor_cal_notes](https://github.com/Zeyu-Li/honor_cal_notes) - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf
+* [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
 * [201-notes](https://github.com/Zeyu-Li/201-labs) - Notes for CMPUT 201 🏫
 * *[201-labs](https://github.com/Zeyu-Li/201-labs)* - 201 Labs at the U of A 🖥️
 * *[CS_175](https://github.com/Zeyu-Li/CS_175)* - A collection of assignments in CMPUT 175 @ U of A 🏫
@@ -254,7 +256,7 @@
 * *[HackEd-2021](https://github.com/Zeyu-Li/HackEd-2021)* - Hack them aliens 👽 (for hackEd 2021)
 * *[flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued)* - My Intro into Flask (discontinued to learn Django)
 
-## (126) All GitHub Repos
+## (128) All GitHub Repos
 
 * *[201-labs](https://github.com/Zeyu-Li/201-labs)* - 201 Labs at the U of A 🖥️
 * [201-notes](https://github.com/Zeyu-Li/201-labs) - Notes for CMPUT 201 🏫
@@ -322,6 +324,7 @@
 * [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [javascript_notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
 * [jekyll-klise](https://github.com/Zeyu-Li/jekyll-klise) - 🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support. (https://klise.now.sh)
+* [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://zeyu-li.github.io/Lua-Online/
 * [makefile_template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++
@@ -364,6 +367,7 @@
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 🤖
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
 * [tic_tac_toe](https://github.com/Zeyu-Li/tic_tac_toe) - Tic Tac Toe using wxFormBuilder and wxPython ❌
+* [TryHackMe](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻
 * [TypeScript_template](https://github.com/Zeyu-Li/TypeScript_template) - A simple TypeScript template, nothing more, nothing less 📝
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me
 * [unboxing](https://github.com/Zeyu-Li/unboxing) - A very jank unboxing game 🧰
@@ -383,9 +387,9 @@
 * [your-clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 
-Total: 126; public : private : forked => 106:10:10
+Total: 128; public : private : forked => 108:10:10
 
-## (16) All Gists
+## (17) All Gists
 
 * [**README_min.md**](https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a) - A minified readme of the GitHub Index
 * [**README_max.md**](https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8) - The maximized version of readme GitHub Index
@@ -396,6 +400,7 @@ Total: 126; public : private : forked => 106:10:10
 * [**pi.py**](https://gist.github.com/Zeyu-Li/b2a9f27c49849add42a0d01d7ffa16e8#file-pi-py) - approximates pi via Monte Carlo
 * [**counter.py**](https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6) - Counts the number of GitHub repos a person has
 * [**find_file_type.py**](https://gist.github.com/Zeyu-Li/0f13d2a76c3055e74c46ec2fa65a9025#file-find_file_type-py) - Script to find all files of a type in current folder
+* [**files.py**](https://gist.github.com/Zeyu-Li/29f054d88514a0737b6775685b39f341) - Generate a List of Files along With File Type (Hand wavy)
 * [**pascal.py**](https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1) - generates a level of the pascal triangle
 * [**regex.py**](https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953) - Does regex searches
 * [**generater.py**](https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4) - generates a folder and copies a md item to clipboard

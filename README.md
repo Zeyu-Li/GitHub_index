@@ -210,9 +210,8 @@
 <li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
 </ul>
 </details>
-
 <details open>
-    <summary name="notes">(16) <h1>Notes</h1></summary>
+    <summary name="notes">(17) <h1>Notes</h1></summary>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/Zeyu-Li'>Zeyu-Li</a> - A little snippet about myself 😀!</li>
 <li><a href='https://github.com/Zeyu-Li/GitHub_index'>GitHub_index</a> - An index for all my GitHub repos 📋, view @ <a href='https://github.com/Zeyu-Li/GitHub_index#github-index' target='_blank' class='url'>https://github.com/Zeyu-Li/GitHub_index#github-index</a>, i.e. this.self</li>
@@ -220,6 +219,7 @@
 <li><a href='https://github.com/Zeyu-Li/unity-user-guide'>unity-user-guide</a> - A Unity User Guide that supplements the Unity Documentation, along with some tips and tricks! Is a collection of my 2D and 3D notes on Unity 🎮</li>
 <li><a href='https://github.com/Zeyu-Li/Unreal-Tutorial'>Unreal-Tutorial</a> - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well 🎮</li>
 <li><a href='https://github.com/Zeyu-Li/javascript_notes'>javascript_notes</a> - Notes on JavaScript</li>
+<li><a href='https://github.com/Zeyu-Li/TryHackMe'>TryHackMe</a> - Hacker Man 👨‍💻</li>
 <li><a href='https://github.com/Zeyu-Li/Vim_help'>Vim_help</a> - This is to help getting up and running with Vim</li>
 <li><a href='https://github.com/Zeyu-Li/TensorFlow_installation_guide'>TensorFlow_installation_guide</a> - A guide to installing TensorFlow 2 🤖</li>
 </ul>
@@ -237,13 +237,14 @@
 </details>
 
 <details open>
-    <summary name="school">(15) <h1>School</h1></summary>
-    <h3><a name="university" class="md-header-anchor"></a><span>(12) University</span></h3>
+    <summary name="school">(16) <h1>School</h1></summary>
+    <h3><a name="university" class="md-header-anchor"></a><span>(13) University</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/kattis_solutions'>kattis_solutions</a> - 😾 Kattis solutions (Competitive Programming)</li>
 <li><a href='https://github.com/Zeyu-Li/UAPSPC_club'>UAPSPC_club</a> - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me</li>
 <li><a href='https://github.com/Zeyu-Li/course-requirements'>course-requirements</a> - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub</li>
 <li><a href='https://github.com/Zeyu-Li/honor_cal_notes'>honor_cal_notes</a> - Notes for honors (aka abstract) calculus! 🧮 GitHub does not support markdown with LaTeX so use the README.pdf</li>
+<li><a href='https://github.com/Zeyu-Li/Lab-8-Template-Wednesday'>Lab-8-Template-Wednesday</a> - A Lab project for CMPUT 301 utilizing Travis CI</li>
 <li><a href='https://github.com/Zeyu-Li/201-labs'>201-notes</a> - Notes for CMPUT 201 🏫</li>
 <li><em><a href='https://github.com/Zeyu-Li/201-labs'>201-labs</a></em> - 201 Labs at the U of A 🖥️</li>
 <li><em><a href='https://github.com/Zeyu-Li/CS_175'>CS_175</a></em> - A collection of assignments in CMPUT 175 @ U of A 🏫</li>
@@ -260,6 +261,7 @@
 <li><a href='https://github.com/Zeyu-Li/replace_text'>replace_text</a> - Replaces text with terms defined in dictionary  📝</li>
 </ul>
 </details>
+
 
 <details open>
     <summary name="other">(26) <h1>Other</h1></summary>
@@ -372,7 +374,7 @@
 <a name="all_r"></a>
 
 <details open>
-	<summary>(126) <h1>All GitHub Repos</h1></summary>
+	<summary>(128) <h1>All GitHub Repos</h1></summary>
         <ul>
 <li><em><a href='https://github.com/Zeyu-Li/201-labs'>201-labs</a></em> - 201 Labs at the U of A 🖥️</li>
 <li><a href='https://github.com/Zeyu-Li/201-labs'>201-notes</a> - Notes for CMPUT 201 🏫</li>
@@ -440,6 +442,7 @@
 <li><a href='https://github.com/Zeyu-Li/learn-coding'>learn-coding</a> - Learn Python coding with interactive code</li>
 <li><a href='https://github.com/Zeyu-Li/javascript_notes'>javascript_notes</a> - Notes on JavaScript</li>
 <li><a href='https://github.com/Zeyu-Li/jekyll-klise'>jekyll-klise</a> - 🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (<a href='https://klise.now.sh' target='_blank' class='url'>https://klise.now.sh</a>)</li>
+<li><a href='https://github.com/Zeyu-Li/Lab-8-Template-Wednesday'>Lab-8-Template-Wednesday</a> - A Lab project for CMPUT 301 utilizing Travis CI</li>
 <li><a href='https://github.com/Zeyu-Li/Lua-Online'>Lua-Online</a> - Lua Online Editor 👨‍💻: <a href='https://zeyu-li.github.io/Lua-Online/' target='_blank' class='url'>https://zeyu-li.github.io/Lua-Online/</a></li>
 <li><a href='https://github.com/Zeyu-Li/makefile_template'>makefile_template</a> - A makefile template 📝</li>
 <li><a href='https://github.com/Zeyu-Li/matrix_multiplication'>matrix_multiplication</a> - Matrix multiplication app using C++</li>
@@ -482,6 +485,7 @@
 <li><a href='https://github.com/Zeyu-Li/TensorFlow_installation_guide'>TensorFlow_installation_guide</a> - A guide to installing TensorFlow 2 🤖</li>
 <li><a href='https://github.com/Zeyu-Li/tensorflow_test'>tensorflow_test</a> - testing TensorFlow</li>
 <li><a href='https://github.com/Zeyu-Li/tic_tac_toe'>tic_tac_toe</a> - Tic Tac Toe using wxFormBuilder and wxPython ❌</li>
+<li><a href='https://github.com/Zeyu-Li/TryHackMe'>TryHackMe</a> - Hacker Man 👨‍💻</li>
 <li><a href='https://github.com/Zeyu-Li/TypeScript_template'>TypeScript_template</a> - A simple TypeScript template, nothing more, nothing less 📝</li>
 <li><a href='https://github.com/Zeyu-Li/UAPSPC_club'>UAPSPC_club</a> - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me</li>
 <li><a href='https://github.com/Zeyu-Li/unboxing'>unboxing</a> - A very jank unboxing game 🧰</li>
@@ -503,7 +507,8 @@
 </ul>
 </details>
 
-Total: 126; public : private : forked => 106:10:10
+
+Total: 128; public : private : forked => 108:10:10
 
 ----
 
@@ -519,6 +524,7 @@ Total: 126; public : private : forked => 106:10:10
 <li><a href='https://gist.github.com/Zeyu-Li/b2a9f27c49849add42a0d01d7ffa16e8#file-pi-py'><strong>pi.py</strong></a> - approximates pi via Monte Carlo</li>
 <li><a href='https://gist.github.com/Zeyu-Li/a4d838e0fcd963f435005584e03bd7c6'><strong>counter.py</strong></a> - Counts the number of GitHub repos a person has</li>
 <li><a href='https://gist.github.com/Zeyu-Li/0f13d2a76c3055e74c46ec2fa65a9025#file-find_file_type-py'><strong>find_file_type.py</strong></a> - Script to find all files of a type in current folder</li>
+<li><a href='https://gist.github.com/Zeyu-Li/29f054d88514a0737b6775685b39f341'><strong>files.py</strong></a> - Generate a List of Files along With File Type (Hand wavy)</li>
 <li><a href='https://gist.github.com/Zeyu-Li/0651f488bf5b8d7229a903441b3ec0f1'><strong>pascal.py</strong></a> - generates a level of the pascal triangle</li>
 <li><a href='https://gist.github.com/Zeyu-Li/5bacf117086e0666d1e5409a51726953'><strong>regex.py</strong></a> - Does regex searches</li>
 <li><a href='https://gist.github.com/Zeyu-Li/0bc83e32810be0a748d2d8ea4c656af4'><strong>generater.py</strong></a> - generates a folder and copies a md item to clipboard</li>
@@ -528,6 +534,7 @@ Total: 126; public : private : forked => 106:10:10
 <li><a href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong>.vimrc</strong></a> - A vim setting gist</li>
 </ul>
 </details>
+
 
 
 ## About
