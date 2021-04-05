@@ -6,7 +6,7 @@
 
 <a href="#gist">Jump to **Gists**</a>
 
-## (27) Web Projects
+## (29) Web Projects
 
 ### (3) Django
 
@@ -14,10 +14,11 @@
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
 * [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - Django login application. Not live due to AWS high charging fees 💸 New version here: https://github.com/Zeyu-Li/django_ecommerce_app
 
-### (11) Static
+### (12) Static
 
 * [website](https://github.com/Zeyu-Li/website) - My new personal website! Live now @ https://zeyu-li.github.io/website/
 * [blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰
+* [CaptureTheBread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://zeyu-li.github.io/Lua-Online/
 * [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure ⚔️ now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board ♟️ made with jQuery and html canvas. Live @ https://zeyu-li.github.io/chess/
@@ -34,7 +35,9 @@
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of ⏩ JW Player
 * [scroll_with_style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension
 
-## (10) Node
+## (11) Node
+
+* [lua-runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua
 
 ### (4) React
 
@@ -65,7 +68,7 @@
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - A simple pdf merger using Python 📝
 * [pdf-splitter](https://github.com/Zeyu-Li/pdf-splitter) - A python script that splits pdfs in multiple parts ✂️📄
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
-* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary  📝
+* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary 📝
 * [python_fractions_module](https://github.com/Zeyu-Li/python_fractions_module) - a Fractions module in Python
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - A fractions calculator written in Python 🖩
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - Sorting GitHub repos using Python and PyGithub
@@ -84,13 +87,14 @@
 * [django-tutorial](https://github.com/Zeyu-Li/django-tutorial) - A tutorial for Django projects 🏫
 * [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - Django login application. Not live due to AWS high charging fees 💸 New version here: https://github.com/Zeyu-Li/django_ecommerce_app
 
-## (5) C-styled (C, C++, C#, Java)
+## (6) C-styled (C, C++, C#, Java)
 
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++
 * [rref](https://github.com/Zeyu-Li/rref) - A ref calculator in C++ 🧮
 * [cpp_fractions_lib](https://github.com/Zeyu-Li/cpp_fractions_lib) - a Fractions library in C++
 * [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C 🔗. Can be found in: https://github.com/Zeyu-Li/quick_algorithms
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizzbuzz in Java 🥤
+* [leetcode](https://github.com/Zeyu-Li/leetcode) - some leetcode question solutions 🤓
 
 ## (15) Games
 
@@ -117,7 +121,7 @@
 * [memory](https://github.com/Zeyu-Li/memory) - A matching game using pygame 🧠
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🦫
 
-## (17) Notes
+## (18) Notes
 
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋, view @ https://github.com/Zeyu-Li/GitHub_index#github-index, i.e. this.self
@@ -126,6 +130,7 @@
 * [Unreal-Tutorial](https://github.com/Zeyu-Li/Unreal-Tutorial) - An Unreal Engine tutorial! Acts as a 1st person Unreal template as well 🎮
 * [javascript_notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
 * [TryHackMe](https://github.com/Zeyu-Li/TryHackMe) - Hacker Man 👨‍💻
+* [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 🤖
 
@@ -140,10 +145,12 @@
 - [resume](https://github.com/Zeyu-Li/resume) - My resume and CV in LaTeX 📄
 - *[cover_letter](https://github.com/Zeyu-Li/cover_letter)* - my personal cover letter
 
-## (16) School
+## (18) School
 
-### (13) University
+### (15) University
 
+* [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
+* [DivineInspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do Experiments 🧪!
 * [kattis_solutions](https://github.com/Zeyu-Li/kattis_solutions) - 😾 Kattis solutions (Competitive Programming)
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me
 * [course-requirements](https://github.com/Zeyu-Li/course-requirements) - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub
@@ -162,7 +169,7 @@
 
 * [high_school_exercise_assignments](https://github.com/Zeyu-Li/high_school_exercise_assignments) - High school projects 🏫
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🦫
-* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary  📝
+* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary 📝
 
 ## (26) Other
 
@@ -230,9 +237,10 @@
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project 📝
 
-## (10) Collaborations or Forked
+## (14) Collaborations or Forked
 
-* [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://zeyu-li.github.io/Lua-Online/
+* [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
+* [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [Socks-and-Found](https://github.com/Zeyu-Li/Socks-and-Found) - For Global Game Jam 2021 🎮
 * [Kitchen-Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝
 * [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
@@ -242,8 +250,11 @@
 * [github-readme-stats](https://github.com/Zeyu-Li/github-readme-stats) - ⚡ Dynamically generated stats for your GitHub readmes
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - Blender mouse and keyboard input viewer ⌨️
 * [gitignore](https://github.com/Zeyu-Li/gitignore) - A collection of useful .gitignore templates ❌
+* [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
+* [awesome-github-profile-readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+* [DivineInspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do Experiments 🧪!
 
-## (10) All Private Repos
+## (11) All Private Repos
 
 * *[cover_letter](https://github.com/Zeyu-Li/cover_letter)* - my personal cover letter
 * *[grapher](https://github.com/Zeyu-Li/grapher)* - A graphing script that graphs a summery from several Google sheets
@@ -255,8 +266,11 @@
 * *[ACPC_2020_Cheat_Sheet](https://github.com/Zeyu-Li/ACPC_2020_Cheat_Sheet)* - stuff and things for ACPC 2020
 * *[HackEd-2021](https://github.com/Zeyu-Li/HackEd-2021)* - Hack them aliens 👽 (for hackEd 2021)
 * *[flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued)* - My Intro into Flask (discontinued to learn Django)
+* *[cs_logo](https://github.com/Zeyu-Li/cs_logo)* - The CS logo for a Discord server
 
-## (128) All GitHub Repos
+## (135) All GitHub Repos
+
+<!-- ignore 3 repo, 2 assignments + a notes repo -->
 
 * *[201-labs](https://github.com/Zeyu-Li/201-labs)* - 201 Labs at the U of A 🖥️
 * [201-notes](https://github.com/Zeyu-Li/201-labs) - Notes for CMPUT 201 🏫
@@ -266,9 +280,11 @@
 * [AMA-template](https://github.com/Zeyu-Li/AMA-template) - An AMA template
 * [androidTemplate](https://github.com/Zeyu-Li/androidTemplate) - An Android Template in the Android Studio 📱 📝
 * [angular-template](https://github.com/Zeyu-Li/angular-template) - A template for Angular 📝
+* [awesome-github-profile-readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 * [blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰
 * [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C 🔗. Can be found in: https://github.com/Zeyu-Li/quick_algorithms
 * [C-template](https://github.com/Zeyu-Li/C-template) - A template for C 📝 
+* [CaptureTheBread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆
 * [chatter](https://github.com/Zeyu-Li/chatter) - A React-Firebase-WebSockets online chat room app 📢
 * [chess](https://github.com/Zeyu-Li/chess) - A web chess board made with jQuery and html canvas. Live @ https://zeyu-li.github.io/chess/
 * [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure ⚔️ now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
@@ -276,6 +292,7 @@
 * [Clockwork](https://github.com/Zeyu-Li/Clockwork) - during a game jam @ MacEwan from November 8-10, 2019 (48 hours), me and a group of 4 others made a full, working game using Unity (available @ [itch.io](https://itch.io/jam/time-to-game-jam-gadec-fall-game-jam/rate/514331) or [link](https://github.com/Zeyu-Li/ClockworkFinished))
 * [ClockworkFinished](https://github.com/Zeyu-Li/ClockworkFinished) - This is the finished game of Soulwork 🕔; The finished built version of [Clockwork](https://github.com/Zeyu-Li/Clockwork)
 * [CMPUT-174-Review](https://github.com/Zeyu-Li/CMPUT-174-Review) - Review of CMPUT 174 at U of A 🏫
+* [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [course-requirements](https://github.com/Zeyu-Li/course-requirements) - Course requirements for U of A specialization 📝. Fillable form however no preview on GitHub
 * *[cover_letter](https://github.com/Zeyu-Li/cover_letter)* - my personal cover letter
 * [converter](https://github.com/Zeyu-Li/converter) - A React Native App that converters cooking units 🍝
@@ -285,7 +302,9 @@
 * *[CS_174](https://github.com/Zeyu-Li/CS_174)* - Assignments and other stuff for CMPUT 174 🏫. For notes on CMPUT 174
 * *[CS_174_old](https://github.com/Zeyu-Li/CS_174_old)* - This is the first class at UofA 🏫. New repo @ https://github.com/Zeyu-Li/CS_174
 * *[CS_175](https://github.com/Zeyu-Li/CS_175)* - A collection of assignments in CMPUT 175 @ U of A 🏫
+* [*cs_logo*](https://github.com/Zeyu-Li/cs_logo) - The CS logo for a Discord server
 * [data_formatting](https://github.com/Zeyu-Li/data_formatting) - Formats data from file and creates new file 📃
+* [DivineInspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do Experiments 🧪!
 * [django_ecommerse_app](https://github.com/Zeyu-Li/django_ecommerse_app) - A Django ecommerce application. Has a working login and shopping cart 🛒!
 * [django_ecommerse_app_deprecated](https://github.com/Zeyu-Li/django_ecommerse_app_deprecated) - Django login application. Not live due to AWS high charging fees 💸 New version here: https://github.com/Zeyu-Li/django_ecommerce_app
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project: https://github.com/Zeyu-Li/django_ecommerse_app
@@ -321,11 +340,13 @@
 * [Kitchen-Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝
 * [Kitchen-Dash-Website](https://github.com/Zeyu-Li/Kitchen-Dash-Website) - Kitchen Dash Landing Page 🚀
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project 📝
-* [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [javascript_notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
 * [jekyll-klise](https://github.com/Zeyu-Li/jekyll-klise) - 🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support. (https://klise.now.sh)
 * [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
-* [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: https://zeyu-li.github.io/Lua-Online/
+* [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
+* [leetcode](https://github.com/Zeyu-Li/leetcode) - some leetcode question solutions 🤓
+* [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
+* [lua-runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua
 * [makefile_template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
 * [matrix_multiplication](https://github.com/Zeyu-Li/matrix_multiplication) - Matrix multiplication app using C++
 * [mb3d](https://github.com/Zeyu-Li/mb3d) - Mandelbulb3D, a 3D fractal generator
@@ -349,7 +370,7 @@
 * [react-native-template](https://github.com/Zeyu-Li/react-native-template) - A template for React Native 📱 📝
 * [react-template](https://github.com/Zeyu-Li/react-template) - A react template 📝
 * [README_template](https://github.com/Zeyu-Li/README_template) - A template for README.md files 📝
-* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary  📝
+* [replace_text](https://github.com/Zeyu-Li/replace_text) - Replaces text with terms defined in dictionary 📝
 * [requirements-maker](https://github.com/Zeyu-Li/requirements-maker) - Supply a list of the modules by the pypi name (comma separated list) and will output a requirements.txt 📝
 * [resume](https://github.com/Zeyu-Li/resume) - My resume and CV in LaTeX 📄
 * [resume-template](https://github.com/Zeyu-Li/resume-template) - A LaTeX resume template 📝
@@ -387,9 +408,9 @@
 * [your-clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 
-Total: 128; public : private : forked => 108:10:10
+Total: 135; public : private : forked => 110:14:11
 
-## (17) All Gists
+## (18) All Gists
 
 * [**README_min.md**](https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a) - A minified readme of the GitHub Index
 * [**README_max.md**](https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8) - The maximized version of readme GitHub Index
@@ -408,12 +429,13 @@ Total: 128; public : private : forked => 108:10:10
 * [**init.sh**](https://gist.github.com/Zeyu-Li/00cfbb97970df7ba161f46094f2a66c1#file-init-sh) - Jekyll for WSL - do `sh init.sh PostTitle` to post, open in explorer and serve
 * [**cloudSettings**](https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c) - Visual Studio Code Settings Sync Gist
 * [**.vimrc**](https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
+* [**skull.tex**](https://gist.github.com/Zeyu-Li/9f8e9bc39b7dfba4479ad70a8b6bd5f4) - A TiKZ drawing of a skull, converted from svg
 
 
 ## About
 
-This is a index to all my **GitHub repos**. It acts as a quicklink to all my projects as well as a description to each repo
+This is a index to all my **GitHub repos**. It acts as a quick-link to all my projects as well as a description to each repo
 
-\* Note, there may be multiple copies of repos because it belongs to multiple sections
+\*Note, there may be multiple copies of repos because it belongs to multiple sections
 
 **<a href="#top">🔝 Back to Top</a>**
