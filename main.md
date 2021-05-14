@@ -61,7 +61,7 @@
 * [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package ♟️
 * [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 
-## (17) Python
+## (19) Python
 
 * [MIDI-bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil 🎹
@@ -73,7 +73,9 @@
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - A fractions calculator written in Python 🖩
 * [PyGithub_sorter](https://github.com/Zeyu-Li/PyGithub_sorter) - Sorting GitHub repos using Python and PyGithub
 * [requirements-maker](https://github.com/Zeyu-Li/requirements-maker) - Supply a list of the modules by the pypi name (comma separated list) and will output a requirements.txt 📝
-* [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🦫
+* [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 
+* [lazy-tensorflow](https://github.com/Zeyu-Li/lazy-tensorflow) - When you don't want to install Tensorflow so you just do it on Google Colab
+* [ML-Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects
 
 ### (3) Pygame
 
@@ -121,7 +123,7 @@
 * [memory](https://github.com/Zeyu-Li/memory) - A matching game using pygame 🧠
 * [groundhog_text_game](https://github.com/Zeyu-Li/groundhog_text_game) - A text-based python game 🦫
 
-## (18) Notes
+## (20) Notes
 
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 * [GitHub_index](https://github.com/Zeyu-Li/GitHub_index) - An index for all my GitHub repos 📋, view @ https://github.com/Zeyu-Li/GitHub_index#github-index, i.e. this.self
@@ -133,6 +135,8 @@
 * [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [Vim_help](https://github.com/Zeyu-Li/Vim_help) - This is to help getting up and running with Vim
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 🤖
+* [lazy-tensorflow](https://github.com/Zeyu-Li/lazy-tensorflow) - When you don't want to install Tensorflow so you just do it on Google Colab
+* [lit-discord-server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
 
 ### (8) LaTeX
 
@@ -145,11 +149,12 @@
 - [resume](https://github.com/Zeyu-Li/resume) - My resume and CV in LaTeX 📄
 - *[cover_letter](https://github.com/Zeyu-Li/cover_letter)* - my personal cover letter
 
-## (18) School
+## (19) School
 
-### (15) University
+### (16) University
 
 * [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
+* [Lab_BasicBlocks](https://github.com/Zeyu-Li/Lab_BasicBlocks) - CMPUT 229 Final Project - Basic Blocks
 * [DivineInspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do Experiments 🧪!
 * [kattis_solutions](https://github.com/Zeyu-Li/kattis_solutions) - 😾 Kattis solutions (Competitive Programming)
 * [UAPSPC_club](https://github.com/Zeyu-Li/UAPSPC_club) - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me
@@ -198,9 +203,10 @@
 * [personal-snippets](https://github.com/Zeyu-Li/personal-snippets) - My personal vs code snippets ✂️
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - Blender mouse and keyboard input viewer ⌨️
 
-### (5) Tests
+### (6) Tests
 
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
+* [fortified-e](https://github.com/Zeyu-Li/fortified-e) - Monte Carlo Simulator for e using Fortran
 * [primes](https://github.com/Zeyu-Li/primes) - A prime detector is TypeScript
 * [go_test](https://github.com/Zeyu-Li/go_test) - intro into Go or Golang by checking if a number is prime or not (copy from primes (above))
 * [django_project_test](https://github.com/Zeyu-Li/django_project_test) - First Django project (test). For current Django project: https://github.com/Zeyu-Li/django_ecommerse_app
@@ -237,7 +243,7 @@
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project 📝
 
-## (14) Collaborations or Forked
+## (15) Collaborations or Forked
 
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
 * [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
@@ -253,6 +259,8 @@
 * [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
 * [awesome-github-profile-readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 * [DivineInspiration](https://github.com/Zeyu-Li/DivineInspiration) - Let's do Experiments 🧪!
+* [SaveImagetoGallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio
+* [pandoc-action-example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 
 ## (11) All Private Repos
 
@@ -268,9 +276,9 @@
 * *[flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued)* - My Intro into Flask (discontinued to learn Django)
 * *[cs_logo](https://github.com/Zeyu-Li/cs_logo)* - The CS logo for a Discord server
 
-## (135) All GitHub Repos
+## (142) All GitHub Repos
 
-<!-- ignore 3 repo, 2 assignments + a notes repo -->
+<!-- ignore 3 repo, 3 assignments + a notes repo -->
 
 * *[201-labs](https://github.com/Zeyu-Li/201-labs)* - 201 Labs at the U of A 🖥️
 * [201-notes](https://github.com/Zeyu-Li/201-labs) - Notes for CMPUT 201 🏫
@@ -318,6 +326,7 @@
 * [fibonacci-mips](https://github.com/Zeyu-Li/fibonacci-mips) - A fibonacci calculator in assembly
 * [FizzBuzz](https://github.com/Zeyu-Li/FizzBuzz) - fizzbuzz in Java 🥤
 * *[flask_project_discontinued](https://github.com/Zeyu-Li/flask_project_discontinued)* - My Intro into Flask (discontinued to learn Django)
+* [fortified-e](https://github.com/Zeyu-Li/fortified-e) - Monte Carlo Simulator for e using Fortran
 * [fractions_cal_py](https://github.com/Zeyu-Li/fractions_cal_py) - A fractions calculator written in Python 🖩
 * [free_blender_models](https://github.com/Zeyu-Li/free_blender_models) - Free Blender models! 🔨
 * [GGJ-Alberta2020](https://github.com/Zeyu-Li/GGJ-Alberta2020) - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 🎮
@@ -343,8 +352,11 @@
 * [javascript_notes](https://github.com/Zeyu-Li/javascript_notes) - Notes on JavaScript
 * [jekyll-klise](https://github.com/Zeyu-Li/jekyll-klise) - 🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support. (https://klise.now.sh)
 * [Lab-8-Template-Wednesday](https://github.com/Zeyu-Li/Lab-8-Template-Wednesday) - A Lab project for CMPUT 301 utilizing Travis CI
+* [Lab_BasicBlocks](https://github.com/Zeyu-Li/Lab_BasicBlocks) - CMPUT 229 Final Project - Basic Blocks
+* [lazy-tensorflow](https://github.com/Zeyu-Li/lazy-tensorflow) - When you don't want to install Tensorflow so you just do it on Google Colab
 * [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [leetcode](https://github.com/Zeyu-Li/leetcode) - some leetcode question solutions 🤓
+* [lit-discord-server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
 * [lua-runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua
 * [makefile_template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
@@ -353,7 +365,9 @@
 * [memory](https://github.com/Zeyu-Li/memory) - A matching game using pygame 🧠
 * [MIDI-bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil 🎹
+* [ML-Now](https://github.com/Zeyu-Li/ML-Now) - A collection of ML projects
 * [old-resume-template](https://github.com/Zeyu-Li/old-resume-template) - Old LaTeX resume template 📝. See new resume template 
+* [pandoc-action-example](https://github.com/Zeyu-Li/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 * [pasta-disasta](https://github.com/Zeyu-Li/pasta-disasta) - What happens when you roll the can of pasta 🍝 (made with matter.js)
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - A simple pdf merger using Python 📝
 * [pdf-splitter](https://github.com/Zeyu-Li/pdf-splitter) - A python script that splits pdfs in multiple parts ✂️📄
@@ -377,6 +391,7 @@
 * [robotics-scoreboard](https://github.com/Zeyu-Li/robotics-scoreboard) - A simple scoreboard (with timer ⏲️) website application for two teams.
 * [rref](https://github.com/Zeyu-Li/rref) - (working) an rref calculator
 * [rust-template](https://github.com/Zeyu-Li/rust-template) - Some info on rust, functional programming, and a hello world 📝
+* [SaveImagetoGallery](https://github.com/Zeyu-Li/SaveImagetoGallery) - This is the code to save the image from Imageview to galley in Android Studio
 * [scroll_with_style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension
 * [sheetToMIDI](https://github.com/Zeyu-Li/sheetToMIDI) - A sheet music (picture) to MIDI file converter 🎶
 * [shortcut_VUr](https://github.com/Zeyu-Li/shortcut_VUr) - Blender mouse and keyboard input viewer ⌨️
@@ -408,9 +423,9 @@
 * [your-clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 
-Total: 135; public : private : forked => 110:14:11
+Total: 142; public : private : forked => 116:15:11
 
-## (18) All Gists
+## (20) All Gists
 
 * [**README_min.md**](https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a) - A minified readme of the GitHub Index
 * [**README_max.md**](https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8) - The maximized version of readme GitHub Index
@@ -429,7 +444,9 @@ Total: 135; public : private : forked => 110:14:11
 * [**init.sh**](https://gist.github.com/Zeyu-Li/00cfbb97970df7ba161f46094f2a66c1#file-init-sh) - Jekyll for WSL - do `sh init.sh PostTitle` to post, open in explorer and serve
 * [**cloudSettings**](https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c) - Visual Studio Code Settings Sync Gist
 * [**.vimrc**](https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55) - A vim setting gist
+* **[.bashrc](https://gist.github.com/Zeyu-Li/b24db531b6974d2344c4f43ea300cd98)** - My bashrc file for wsl2
 * [**skull.tex**](https://gist.github.com/Zeyu-Li/9f8e9bc39b7dfba4479ad70a8b6bd5f4) - A TiKZ drawing of a skull, converted from svg
+* [**LICENSE**](https://gist.github.com/Zeyu-Li/d6475c42cfa562ddfae1f09222b64517#file-license) - ABRMS (Anyone But Richard M Stallman) Troll License from https://github.com/landondyer/kasm/blob/master/LICENSE
 
 
 ## About

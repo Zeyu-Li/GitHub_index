@@ -83,6 +83,8 @@
     </ul>
 </details>
 
+
+
 <a href="#all_r">Jump to <b>All</b> repos</a>
 
 <a href="#gist">Jump to **Gists**</a>
@@ -149,19 +151,20 @@
 </details>
 
 <details open>
-    <summary name="python">(17) <h1>Python</h1></summary>
-    <ul>
-<li><a href='https://github.com/Zeyu-Li/MIDI-bot'>MIDI-bot</a> - A discord bot that produces the MIDI from user inputted notes 🤖</li>
+    <summary name="python">(19) <h1>Python</h1></summary>
+    <ul><li><a href='https://github.com/Zeyu-Li/MIDI-bot'>MIDI-bot</a> - A discord bot that produces the MIDI from user inputted notes 🤖</li>
 <li><a href='https://github.com/Zeyu-Li/Midi_interface'>Midi_interface</a> - A interface for MIDIUtil 🎹</li>
 <li><a href='https://github.com/Zeyu-Li/pdf_merger'>pdf_merger</a> - A simple pdf merger using Python 📝</li>
 <li><a href='https://github.com/Zeyu-Li/pdf-splitter'>pdf-splitter</a> - A python script that splits pdfs in multiple parts ✂️📄</li>
 <li><a href='https://github.com/Zeyu-Li/data_formatting'>data_formatting</a> - Formats data from file and creates new file 📃</li>
-<li><a href='https://github.com/Zeyu-Li/replace_text'>replace_text</a> - Replaces text with terms defined in dictionary  📝</li>
+<li><a href='https://github.com/Zeyu-Li/replace_text'>replace_text</a> - Replaces text with terms defined in dictionary 📝</li>
 <li><a href='https://github.com/Zeyu-Li/python_fractions_module'>python_fractions_module</a> - a Fractions module in Python</li>
 <li><a href='https://github.com/Zeyu-Li/fractions_cal_py'>fractions_cal_py</a> - A fractions calculator written in Python 🖩</li>
 <li><a href='https://github.com/Zeyu-Li/PyGithub_sorter'>PyGithub_sorter</a> - Sorting GitHub repos using Python and PyGithub</li>
 <li><a href='https://github.com/Zeyu-Li/requirements-maker'>requirements-maker</a> - Supply a list of the modules by the pypi name (comma separated list) and will output a requirements.txt 📝</li>
-<li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
+<li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game </li>
+<li><a href='https://github.com/Zeyu-Li/lazy-tensorflow'>lazy-tensorflow</a> - When you don&#39;t want to install Tensorflow so you just do it on Google Colab</li>
+<li><a href='https://github.com/Zeyu-Li/ML-Now'>ML-Now</a> - A collection of ML projects</li>
 </ul>
     <h3><a name="pygame" class="md-header-anchor"></a><span>(3) Pygame</span></h3>
     <ul>
@@ -175,6 +178,8 @@
 <li><a href='https://github.com/Zeyu-Li/django-tutorial'>django-tutorial</a> - A tutorial for Django projects 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/django_ecommerse_app_deprecated'>django_ecommerse_app_deprecated</a> - Django login application. Not live due to AWS high charging fees 💸 New version here: <a href='https://github.com/Zeyu-Li/django_ecommerce_app' target='_blank' class='url'>https://github.com/Zeyu-Li/django_ecommerce_app</a></li>
 </ul></details>
+
+
 <details open>
     <summary name="c">(6) <h1>C-styled (C, C++, C#, Java)</h1></summary>
     <ul>
@@ -186,6 +191,7 @@
 <li><a href='https://github.com/Zeyu-Li/leetcode'>leetcode</a> - some leetcode question solutions 🤓</li>
 </ul>
 </details>
+
 
 <details open>
     <summary name="games">(15) <h1>Games</h1></summary>
@@ -213,8 +219,9 @@
 <li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
 </ul>
 </details>
+
 <details open>
-    <summary name="notes">(18) <h1>Notes</h1></summary>
+    <summary name="notes">(20) <h1>Notes</h1></summary>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/Zeyu-Li'>Zeyu-Li</a> - A little snippet about myself 😀!</li>
 <li><a href='https://github.com/Zeyu-Li/GitHub_index'>GitHub_index</a> - An index for all my GitHub repos 📋, view @ <a href='https://github.com/Zeyu-Li/GitHub_index#github-index' target='_blank' class='url'>https://github.com/Zeyu-Li/GitHub_index#github-index</a>, i.e. this.self</li>
@@ -226,6 +233,8 @@
 <li><a href='https://github.com/Zeyu-Li/CMPUT-229'>CMPUT-229</a> - A brief overview of CMPUT 229 🏫</li>
 <li><a href='https://github.com/Zeyu-Li/Vim_help'>Vim_help</a> - This is to help getting up and running with Vim</li>
 <li><a href='https://github.com/Zeyu-Li/TensorFlow_installation_guide'>TensorFlow_installation_guide</a> - A guide to installing TensorFlow 2 🤖</li>
+<li><a href='https://github.com/Zeyu-Li/lazy-tensorflow'>lazy-tensorflow</a> - When you don&#39;t want to install Tensorflow so you just do it on Google Colab</li>
+<li><a href='https://github.com/Zeyu-Li/lit-discord-server'>lit-discord-server</a> - A guide to making a 🔥 lit Discord Server</li>
 </ul>
     <h3><a name="latex" class="md-header-anchor"></a><span>(8) LaTeX</span></h3>
     <ul>
@@ -241,10 +250,11 @@
 </details>
 
 <details open>
-    <summary name="school">(18) <h1>School</h1></summary>
-    <h3><a name="university" class="md-header-anchor"></a><span>(13) University</span></h3>
+    <summary name="school">(19) <h1>School</h1></summary>
+    <h3><a name="university" class="md-header-anchor"></a><span>(16) University</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/CMPUT-229'>CMPUT-229</a> - A brief overview of CMPUT 229 🏫</li>
+<li><a href='https://github.com/Zeyu-Li/Lab_BasicBlocks'>Lab_BasicBlocks</a> - CMPUT 229 Final Project - Basic Blocks</li>
 <li><a href='https://github.com/Zeyu-Li/DivineInspiration'>DivineInspiration</a> - Let&#39;s do Experiments 🧪!</li>
 <li><a href='https://github.com/Zeyu-Li/kattis_solutions'>kattis_solutions</a> - 😾 Kattis solutions (Competitive Programming)</li>
 <li><a href='https://github.com/Zeyu-Li/UAPSPC_club'>UAPSPC_club</a> - Problem Solving and Programming Club is a club where geeks hang out for some hard core classic computational challenges. i.e. not for me</li>
@@ -263,10 +273,11 @@
     <h3><a name="high-school" class="md-header-anchor"></a><span>(3) High School</span></h3>
     <ul>
 <li><a href='https://github.com/Zeyu-Li/high_school_exercise_assignments'>high_school_exercise_assignments</a> - High school projects 🏫</li>
-<li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game 🦫</li>
+<li><a href='https://github.com/Zeyu-Li/groundhog_text_game'>groundhog_text_game</a> - A text-based python game</li>
 <li><a href='https://github.com/Zeyu-Li/replace_text'>replace_text</a> - Replaces text with terms defined in dictionary  📝</li>
 </ul>
 </details>
+
 
 <details open>
     <summary name="other">(26) <h1>Other</h1></summary>
@@ -305,6 +316,8 @@
 <li><a href='https://github.com/Zeyu-Li/Unreal-Template-Old'>Unreal-Template-Old</a> - A Old Unreal Template with a Git bug 🐞. New one here: <a href='https://github.com/Zeyu-Li/Unreal-Template' target='_blank' class='url'>https://github.com/Zeyu-Li/Unreal-Template</a></li>
 </ul>
 </details>
+
+
 <details open>
     <summary name="template">(20) <h1>Templates/Boilerplates</h1></summary>
     <h3><a name="language" class="md-header-anchor"></a><span>(9) Programming Languages</span></h3>
@@ -337,8 +350,9 @@
 <li><a href='https://github.com/Zeyu-Li/IntelliJ-IDEA_template'>IntelliJ-IDEA_template</a> - A template for an IntelliJ Idea project 📝</li>
 </ul>
 </details>
+
 <details open>
-	<summary name="fork">(14) <h1>Collaborations or Forked</h1></summary>
+	<summary name="fork">(15) <h1>Collaborations or Forked</h1></summary>
 <ul>
 <li><a href='https://github.com/Zeyu-Li/Lua-Online'>Lua-Online</a> - Lua Online Editor 👨‍💻: <a href='https://zeyu-li.github.io/Lua-Online/'>zeyu-li.github.io/Lua-Online/</a></li>
 <li><a href='https://github.com/Zeyu-Li/CMPUT-229'>CMPUT-229</a> - A brief overview of CMPUT 229 🏫</li>
@@ -354,8 +368,11 @@
 <li><a href='https://github.com/Zeyu-Li/Lab-8-Template-Wednesday'>Lab-8-Template-Wednesday</a> - A Lab project for CMPUT 301 utilizing Travis CI</li>
 <li><a href='https://github.com/Zeyu-Li/awesome-github-profile-readme'>awesome-github-profile-readme</a> - 😎 A curated list of awesome Github Profile READMEs 📝</li>
 <li><a href='https://github.com/Zeyu-Li/DivineInspiration'>DivineInspiration</a> - Let&#39;s do Experiments 🧪!</li>
+<li><a href='https://github.com/Zeyu-Li/SaveImagetoGallery'>SaveImagetoGallery</a> - This is the code to save the image from Imageview to galley in Android Studio</li>
+<li><a href='https://github.com/Zeyu-Li/pandoc-action-example'>pandoc-action-example</a> - using the pandoc document converter on GitHub Actions</li>
 </ul>
 </details>
+
 
 ----
 
@@ -376,13 +393,12 @@
 </ul>
 </details>
 
-
 ---
 
 <a name="all_r"></a>
 
 <details open>
-	<summary>(135) <h1>All GitHub Repos</h1></summary>
+	<summary>(142) <h1>All GitHub Repos</h1></summary>
         <ul>
 <li><em><a href='https://github.com/Zeyu-Li/201-labs'>201-labs</a></em> - 201 Labs at the U of A 🖥️</li>
 <li><a href='https://github.com/Zeyu-Li/201-labs'>201-notes</a> - Notes for CMPUT 201 🏫</li>
@@ -430,6 +446,7 @@
 <li><a href='https://github.com/Zeyu-Li/fibonacci-mips'>fibonacci-mips</a> - A fibonacci calculator in assembly</li>
 <li><a href='https://github.com/Zeyu-Li/FizzBuzz'>FizzBuzz</a> - fizzbuzz in Java 🥤</li>
 <li><em><a href='https://github.com/Zeyu-Li/flask_project_discontinued'>flask_project_discontinued</a></em> - My Intro into Flask (discontinued to learn Django)</li>
+<li><a href='https://github.com/Zeyu-Li/fortified-e'>fortified-e</a> - Monte Carlo Simulator for e using Fortran</li>
 <li><a href='https://github.com/Zeyu-Li/fractions_cal_py'>fractions_cal_py</a> - A fractions calculator written in Python 🖩</li>
 <li><a href='https://github.com/Zeyu-Li/free_blender_models'>free_blender_models</a> - Free Blender models! 🔨</li>
 <li><a href='https://github.com/Zeyu-Li/GGJ-Alberta2020'>GGJ-Alberta2020</a> - For Global Game Jam Edmonton; Jan. 31 - Feb. 2 2020 🎮</li>
@@ -455,8 +472,11 @@
 <li><a href='https://github.com/Zeyu-Li/javascript_notes'>javascript_notes</a> - Notes on JavaScript</li>
 <li><a href='https://github.com/Zeyu-Li/jekyll-klise'>jekyll-klise</a> - 🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (<a href='https://klise.now.sh' target='_blank' class='url'>https://klise.now.sh</a>)</li>
 <li><a href='https://github.com/Zeyu-Li/Lab-8-Template-Wednesday'>Lab-8-Template-Wednesday</a> - A Lab project for CMPUT 301 utilizing Travis CI</li>
+<li><a href='https://github.com/Zeyu-Li/Lab_BasicBlocks'>Lab_BasicBlocks</a> - CMPUT 229 Final Project - Basic Blocks</li>
+<li><a href='https://github.com/Zeyu-Li/lazy-tensorflow'>lazy-tensorflow</a> - When you don&#39;t want to install Tensorflow so you just do it on Google Colab</li>
 <li><a href='https://github.com/Zeyu-Li/learn-coding'>learn-coding</a> - Learn Python coding with interactive code</li>
 <li><a href='https://github.com/Zeyu-Li/leetcode'>leetcode</a> - some leetcode question solutions 🤓</li>
+<li><a href='https://github.com/Zeyu-Li/lit-discord-server'>lit-discord-server</a> - A guide to making a 🔥 lit Discord Server</li>
 <li><a href='https://github.com/Zeyu-Li/Lua-Online'>Lua-Online</a> - Lua Online Editor 👨‍💻: <a href='https://zeyu-li.github.io/Lua-Online/'>zeyu-li.github.io/Lua-Online/</a></li>
 <li><a href='https://github.com/Zeyu-Li/lua-runner'>lua-runner</a> - A npm package to run Lua</li>
 <li><a href='https://github.com/Zeyu-Li/makefile_template'>makefile_template</a> - A makefile template 📝</li>
@@ -465,7 +485,9 @@
 <li><a href='https://github.com/Zeyu-Li/memory'>memory</a> - A matching game using pygame 🧠</li>
 <li><a href='https://github.com/Zeyu-Li/MIDI-bot'>MIDI-bot</a> - A discord bot that produces the MIDI from user inputted notes 🤖</li>
 <li><a href='https://github.com/Zeyu-Li/Midi_interface'>Midi_interface</a> - A interface for MIDIUtil 🎹</li>
+<li><a href='https://github.com/Zeyu-Li/ML-Now'>ML-Now</a> - A collection of ML projects</li>
 <li><a href='https://github.com/Zeyu-Li/old-resume-template'>old-resume-template</a> - Old LaTeX resume template 📝. See new resume template </li>
+<li><a href='https://github.com/Zeyu-Li/pandoc-action-example'>pandoc-action-example</a> - using the pandoc document converter on GitHub Actions</li>
 <li><a href='https://github.com/Zeyu-Li/pasta-disasta'>pasta-disasta</a> - What happens when you roll the can of pasta 🍝 (made with matter.js)</li>
 <li><a href='https://github.com/Zeyu-Li/pdf_merger'>pdf_merger</a> - A simple pdf merger using Python 📝</li>
 <li><a href='https://github.com/Zeyu-Li/pdf-splitter'>pdf-splitter</a> - A python script that splits pdfs in multiple parts ✂️📄</li>
@@ -489,6 +511,7 @@
 <li><a href='https://github.com/Zeyu-Li/robotics-scoreboard'>robotics-scoreboard</a> - A simple scoreboard (with timer ⏲️) website application for two teams.</li>
 <li><a href='https://github.com/Zeyu-Li/rref'>rref</a> - (working) an rref calculator</li>
 <li><a href='https://github.com/Zeyu-Li/rust-template'>rust-template</a> - Some info on rust, functional programming, and a hello world 📝</li>
+<li><a href='https://github.com/Zeyu-Li/SaveImagetoGallery'>SaveImagetoGallery</a> - This is the code to save the image from Imageview to galley in Android Studio</li>
 <li><a href='https://github.com/Zeyu-Li/scroll_with_style'>scroll_with_style</a> - A stylized scrollbar Chrome extension</li>
 <li><a href='https://github.com/Zeyu-Li/sheetToMIDI'>sheetToMIDI</a> - A sheet music (picture) to MIDI file converter 🎶</li>
 <li><a href='https://github.com/Zeyu-Li/shortcut_VUr'>shortcut_VUr</a> - Blender mouse and keyboard input viewer ⌨️</li>
@@ -522,12 +545,13 @@
 </ul>
 </details>
 
-Total: 135; public : private : forked => 110:14:11
+
+Total: 142; public : private : forked => 116:15:11
 
 ----
 
 <details open>
-	<summary name="gist">(18) <h1>All Gists</h1></summary>
+	<summary name="gist">(20) <h1>All Gists</h1></summary>
     <ul>
 <li><a href='https://gist.github.com/Zeyu-Li/5d8a53c60df9e627522728ccbfb26d5a'><strong>README_min.md</strong></a> - A minified readme of the GitHub Index</li>
 <li><a href='https://gist.github.com/Zeyu-Li/98cf78603c0134815d1d9dc2c12372d8'><strong>README_max.md</strong></a> - The maximized version of readme GitHub Index</li>
@@ -546,9 +570,12 @@ Total: 135; public : private : forked => 110:14:11
 <li><a href='https://gist.github.com/Zeyu-Li/00cfbb97970df7ba161f46094f2a66c1#file-init-sh'><strong>init.sh</strong></a> - Jekyll for WSL - do <code>sh init.sh PostTitle</code> to post, open in explorer and serve</li>
 <li><a href='https://gist.github.com/Zeyu-Li/80b5d20564341db07a139a13cbf6120c'><strong>cloudSettings</strong></a> - Visual Studio Code Settings Sync Gist</li>
 <li><a href='https://gist.github.com/Zeyu-Li/73e30eddbde493bd3c329de57c658a55'><strong>.vimrc</strong></a> - A vim setting gist</li>
+<li><strong><a href='https://gist.github.com/Zeyu-Li/b24db531b6974d2344c4f43ea300cd98'>.bashrc</a></strong> - My bashrc file for wsl2</li>
 <li><a href='https://gist.github.com/Zeyu-Li/9f8e9bc39b7dfba4479ad70a8b6bd5f4'><strong>skull.tex</strong></a> - A TiKZ drawing of a skull, converted from svg</li>
+<li><a href='https://gist.github.com/Zeyu-Li/d6475c42cfa562ddfae1f09222b64517#file-license'><strong>LICENSE</strong></a> - ABRMS (Anyone But Richard M Stallman) Troll License from <a href='https://github.com/landondyer/kasm/blob/master/LICENSE' target='_blank' class='url'>https://github.com/landondyer/kasm/blob/master/LICENSE</a></li>
 </ul>
 </details>
+
 
 
 ## About
