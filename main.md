@@ -6,7 +6,7 @@
 
 <a href="#gist">Jump to **Gists**</a>
 
-## (29) Web Projects
+## (30) Web Projects
 
 ### (3) Django
 
@@ -35,12 +35,13 @@
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of ⏩ JW Player
 * [scroll_with_style](https://github.com/Zeyu-Li/scroll_with_style) - A stylized scrollbar Chrome extension
 
-## (11) Node
+## (12) Node
 
 * [lua-runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua
 
-### (4) React
+### (5) React
 
+* [lit-website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥
 * [chatter](https://github.com/Zeyu-Li/chatter) - A React-Firebase-WebSockets online chat room app 📢
 * [emojis-finder](https://github.com/Zeyu-Li/emojis-finder) - A website dedicated to finding the emoji you want! Made with react ❤️
 * [choose_your_own_adventure_react_maker](https://github.com/Zeyu-Li/choose_your_own_adventure_react_maker) - Starting creating your adventure ⚔️ now by reading the readme then go here: https://zeyu-li.github.io/choose_your_own_adventure_react_maker/event_generator/index.html
@@ -61,8 +62,9 @@
 * [expressing-chess](https://github.com/Zeyu-Li/expressing-chess) - Expressing chess with express.js, a backend node.js package ♟️
 * [express_tutorial](https://github.com/Zeyu-Li/express_tutorial) - a tutorial for express.js, a backend node.js package
 
-## (19) Python
+## (20) Python
 
+* [bottom-penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈
 * [MIDI-bot](https://github.com/Zeyu-Li/MIDI-bot) - A discord bot that produces the MIDI from user inputted notes 🤖
 * [Midi_interface](https://github.com/Zeyu-Li/Midi_interface) - A interface for MIDIUtil 🎹
 * [pdf_merger](https://github.com/Zeyu-Li/pdf_merger) - A simple pdf merger using Python 📝
@@ -243,9 +245,10 @@
 * [vs_project](https://github.com/Zeyu-Li/vs_project) - A starting point for C++ in Visual Studio 📝
 * [IntelliJ-IDEA_template](https://github.com/Zeyu-Li/IntelliJ-IDEA_template) - A template for an IntelliJ Idea project 📝
 
-## (15) Collaborations or Forked
+## (16) Collaborations or Forked
 
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
+* [synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue.
 * [CMPUT-229](https://github.com/Zeyu-Li/CMPUT-229) - A brief overview of CMPUT 229 🏫
 * [Socks-and-Found](https://github.com/Zeyu-Li/Socks-and-Found) - For Global Game Jam 2021 🎮
 * [Kitchen-Dash](https://github.com/Zeyu-Li/Kitchen-Dash) - Why get food delivered when you can make your own? 🍝
@@ -290,6 +293,7 @@
 * [angular-template](https://github.com/Zeyu-Li/angular-template) - A template for Angular 📝
 * [awesome-github-profile-readme](https://github.com/Zeyu-Li/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 * [blog](https://github.com/Zeyu-Li/blog) - My personal blog 📰
+* [bottom-penguin](https://github.com/Zeyu-Li/bottom-penguin) - A new cryptocurrency for us penguins🐧 because why not 🥺👉👈
 * [c_linked_list](https://github.com/Zeyu-Li/c_linked_list) - A singly linked list in C 🔗. Can be found in: https://github.com/Zeyu-Li/quick_algorithms
 * [C-template](https://github.com/Zeyu-Li/C-template) - A template for C 📝 
 * [CaptureTheBread](https://github.com/Zeyu-Li/CaptureTheBread) - For CTF - an 80 themed website🔆
@@ -357,6 +361,7 @@
 * [learn-coding](https://github.com/Zeyu-Li/learn-coding) - Learn Python coding with interactive code
 * [leetcode](https://github.com/Zeyu-Li/leetcode) - some leetcode question solutions 🤓
 * [lit-discord-server](https://github.com/Zeyu-Li/lit-discord-server) - A guide to making a 🔥 lit Discord Server
+* [lit-website](https://github.com/Zeyu-Li/lit-website) - My lit portfolio website 🔥
 * [Lua-Online](https://github.com/Zeyu-Li/Lua-Online) - Lua Online Editor 👨‍💻: [zeyu-li.github.io/Lua-Online/](https://zeyu-li.github.io/Lua-Online/)
 * [lua-runner](https://github.com/Zeyu-Li/lua-runner) - A npm package to run Lua
 * [makefile_template](https://github.com/Zeyu-Li/makefile_template) - A makefile template 📝
@@ -399,6 +404,7 @@
 * [speedy_jwplayer](https://github.com/Zeyu-Li/speedy_jwplayer) - It is a simple Chrome extension that modifies the speed of ⏩ JW Player
 * [spinning-donuts](https://github.com/Zeyu-Li/spinning-donuts) - Spinning ASCII Donuts! 🍩
 * [strings](https://github.com/Zeyu-Li/strings) - common string operations🧵
+* [synapse](https://github.com/Zeyu-Li/synapse) - Synapse is a tool that generates interactive graphs of course prerequisites and corequisites using data extracted from the UAlberta course catalogue.
 * [template](https://github.com/Zeyu-Li/template) - A template for README files 📝
 * [TensorFlow_installation_guide](https://github.com/Zeyu-Li/TensorFlow_installation_guide) - A guide to installing TensorFlow 2 🤖
 * [tensorflow_test](https://github.com/Zeyu-Li/tensorflow_test) - testing TensorFlow
@@ -423,7 +429,7 @@
 * [your-clipboard](https://github.com/Zeyu-Li/your-clipboard) - An electron app that acts as your clipboard 📋
 * [Zeyu-Li](https://github.com/Zeyu-Li/Zeyu-Li) - A little snippet about myself 😀!
 
-Total: 142; public : private : forked => 116:15:11
+Total: 145; public : private : forked => 118:11:16
 
 ## (20) All Gists
 
